@@ -1,0 +1,7 @@
+﻿caption_prompt_id,pope_split,complete,images,probed_image_object_pairs,no_pairs,no_pairs_mentioned_in_caption,mentioned_given_no,caption_mentioned_probed_pairs,caption_mentioned_pairs_answered_yes,yes_given_caption_mentioned,no_caption_mention_instances,caption_mentioned_probed_instances
+I1,random,True,500,3000,1497,11,0.007348029392117568,737,726,0.9850746268656716,11,812
+I1,popular,True,500,3000,1294,12,0.00927357032457496,744,732,0.9838709677419355,12,819
+I1,adversarial,True,500,3000,1193,11,0.009220452640402346,746,735,0.985254691689008,11,821
+I2,random,True,500,3000,1497,18,0.012024048096192385,962,944,0.9812889812889813,33,1964
+I2,popular,True,500,3000,1294,27,0.020865533230293665,990,963,0.9727272727272728,43,1996
+I2,adversarial,True,500,3000,1193,26,0.02179379715004191,996,970,0.9738955823293173,42,2002

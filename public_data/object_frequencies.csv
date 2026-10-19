@@ -1,0 +1,633 @@
+﻿prompt_id,anchor,rank,object,image_frequency,hallucination_count
+I1,,1,person,22755,1
+I1,,2,dining table,6760,15
+I1,,3,car,4790,0
+I1,,4,chair,4789,1
+I1,,5,cup,3166,2
+I1,,6,bottle,2944,2
+I1,,7,bowl,2892,3
+I1,,8,handbag,2299,0
+I1,,9,truck,2149,0
+I1,,10,bench,2081,3
+I1,,11,sports ball,2077,12
+I1,,12,book,1871,1
+I1,,13,cell phone,1861,2
+I1,,14,backpack,1847,0
+I1,,15,clock,1726,0
+I1,,16,tv,1683,0
+I1,,17,laptop,1664,2
+I1,,18,dog,1635,1
+I1,,19,sink,1634,2
+I1,,20,couch,1553,1
+I1,,21,potted plant,1550,0
+I1,,22,cat,1539,0
+I1,,23,bed,1526,4
+I1,,24,traffic light,1499,1
+I1,,25,orange,1493,14
+I1,,26,train,1439,2
+I1,,27,knife,1428,2
+I1,,28,umbrella,1407,2
+I1,,29,bus,1390,0
+I1,,30,bicycle,1366,1
+I1,,31,tie,1355,1
+I1,,32,surfboard,1315,0
+I1,,33,bird,1255,2
+I1,,34,motorcycle,1248,0
+I1,,35,vase,1228,2
+I1,,36,spoon,1209,2
+I1,,37,toilet,1203,1
+I1,,38,tennis racket,1198,0
+I1,,39,fork,1197,2
+I1,,40,skis,1188,2
+I1,,41,boat,1186,0
+I1,,42,pizza,1170,0
+I1,,43,oven,1150,1
+I1,,44,skateboard,1127,1
+I1,,45,cake,1080,0
+I1,,46,horse,1079,0
+I1,,47,remote,1070,0
+I1,,48,sandwich,945,2
+I1,,49,suitcase,934,1
+I1,,50,airplane,928,0
+I1,,51,giraffe,880,0
+I1,,52,wine glass,873,0
+I1,,53,baseball glove,845,0
+I1,,54,keyboard,816,2
+I1,,55,refrigerator,808,1
+I1,,56,baseball bat,806,0
+I1,,57,frisbee,772,1
+I1,,58,kite,754,1
+I1,,59,cow,746,0
+I1,,60,banana,745,0
+I1,,61,elephant,739,0
+I1,,62,teddy bear,734,0
+I1,,63,zebra,720,0
+I1,,64,mouse,710,2
+I1,,65,bear,701,2
+I1,,66,broccoli,680,0
+I1,,67,stop sign,623,0
+I1,,68,carrot,598,0
+I1,,69,fire hydrant,598,0
+I1,,70,apple,581,2
+I1,,71,donut,569,0
+I1,,72,snowboard,559,1
+I1,,73,sheep,533,0
+I1,,74,microwave,528,0
+I1,,75,hot dog,473,1
+I1,,76,toothbrush,345,0
+I1,,77,scissors,303,0
+I1,,78,parking meter,269,0
+I1,,79,toaster,108,0
+I1,,80,hair drier,70,0
+I1,dining table,1,person,2877,0
+I1,dining table,2,chair,2390,0
+I1,dining table,3,cup,2094,0
+I1,dining table,4,bowl,1595,0
+I1,dining table,5,bottle,1309,0
+I1,dining table,6,laptop,1132,1
+I1,dining table,7,knife,1031,1
+I1,dining table,8,fork,962,2
+I1,dining table,9,book,929,0
+I1,dining table,10,tv,892,0
+I1,dining table,11,spoon,822,0
+I1,dining table,12,pizza,761,0
+I1,dining table,13,cake,728,0
+I1,dining table,14,vase,655,0
+I1,dining table,15,wine glass,650,0
+I1,dining table,16,cell phone,643,1
+I1,dining table,17,keyboard,639,2
+I1,dining table,18,sandwich,617,2
+I1,dining table,19,potted plant,614,0
+I1,dining table,20,mouse,597,1
+I1,dining table,21,couch,546,0
+I1,dining table,22,orange,424,2
+I1,dining table,23,broccoli,367,0
+I1,dining table,24,remote,359,0
+I1,dining table,25,carrot,351,0
+I1,dining table,26,handbag,301,0
+I1,dining table,27,cat,282,0
+I1,dining table,28,clock,280,0
+I1,dining table,29,oven,279,0
+I1,dining table,30,apple,278,1
+I1,dining table,31,banana,278,0
+I1,dining table,32,donut,259,0
+I1,dining table,33,bed,253,0
+I1,dining table,34,bench,242,1
+I1,dining table,35,refrigerator,233,0
+I1,dining table,36,hot dog,232,1
+I1,dining table,37,sink,226,0
+I1,dining table,38,tie,219,0
+I1,dining table,39,umbrella,199,0
+I1,dining table,40,car,179,0
+I1,dining table,41,backpack,168,0
+I1,dining table,42,microwave,164,0
+I1,dining table,43,scissors,151,0
+I1,dining table,44,dog,147,0
+I1,dining table,45,teddy bear,130,0
+I1,dining table,46,suitcase,94,0
+I1,dining table,47,bird,91,0
+I1,dining table,48,bicycle,83,0
+I1,dining table,49,bear,79,0
+I1,dining table,50,truck,66,0
+I1,dining table,51,sports ball,50,2
+I1,dining table,52,boat,41,0
+I1,dining table,53,motorcycle,34,0
+I1,dining table,54,toaster,30,0
+I1,dining table,55,horse,28,0
+I1,dining table,56,toilet,23,0
+I1,dining table,57,train,21,0
+I1,dining table,58,frisbee,19,0
+I1,dining table,59,toothbrush,19,0
+I1,dining table,60,traffic light,19,0
+I1,dining table,61,skateboard,18,0
+I1,dining table,62,airplane,16,0
+I1,dining table,63,bus,11,0
+I1,dining table,64,sheep,11,0
+I1,dining table,65,surfboard,11,0
+I1,dining table,66,cow,10,0
+I1,dining table,67,elephant,8,0
+I1,dining table,68,fire hydrant,8,0
+I1,dining table,69,tennis racket,7,0
+I1,dining table,70,hair drier,6,0
+I1,dining table,71,parking meter,6,0
+I1,dining table,72,kite,5,0
+I1,dining table,73,baseball bat,4,0
+I1,dining table,74,skis,4,0
+I1,dining table,75,zebra,4,0
+I1,dining table,76,giraffe,3,0
+I1,dining table,77,snowboard,2,0
+I1,dining table,78,stop sign,2,0
+I1,chair,1,person,3001,0
+I1,chair,2,dining table,2390,6
+I1,chair,3,cup,981,0
+I1,chair,4,couch,819,0
+I1,chair,5,bottle,809,0
+I1,chair,6,book,742,0
+I1,chair,7,tv,720,0
+I1,chair,8,bowl,627,0
+I1,chair,9,laptop,619,1
+I1,chair,10,potted plant,613,0
+I1,chair,11,vase,452,1
+I1,chair,12,knife,383,0
+I1,chair,13,sports ball,375,2
+I1,chair,14,remote,374,0
+I1,chair,15,cell phone,372,1
+I1,chair,16,wine glass,341,0
+I1,chair,17,bed,340,0
+I1,chair,18,handbag,334,0
+I1,chair,19,umbrella,328,0
+I1,chair,20,bench,319,2
+I1,chair,21,fork,315,0
+I1,chair,22,spoon,312,0
+I1,chair,23,car,294,0
+I1,chair,24,cat,287,0
+I1,chair,25,clock,272,0
+I1,chair,26,tennis racket,271,0
+I1,chair,27,keyboard,270,0
+I1,chair,28,mouse,267,0
+I1,chair,29,backpack,259,0
+I1,chair,30,refrigerator,250,0
+I1,chair,31,dog,248,0
+I1,chair,32,cake,245,0
+I1,chair,33,tie,245,0
+I1,chair,34,pizza,238,0
+I1,chair,35,sink,232,0
+I1,chair,36,oven,231,0
+I1,chair,37,orange,169,3
+I1,chair,38,microwave,151,0
+I1,chair,39,sandwich,150,1
+I1,chair,40,teddy bear,143,0
+I1,chair,41,suitcase,137,0
+I1,chair,42,bicycle,135,0
+I1,chair,43,baseball bat,119,0
+I1,chair,44,baseball glove,115,0
+I1,chair,45,truck,103,0
+I1,chair,46,apple,93,0
+I1,chair,47,motorcycle,86,0
+I1,chair,48,donut,80,0
+I1,chair,49,banana,79,0
+I1,chair,50,hot dog,75,1
+I1,chair,51,bear,74,0
+I1,chair,52,boat,72,0
+I1,chair,53,bird,71,0
+I1,chair,54,train,64,0
+I1,chair,55,carrot,54,0
+I1,chair,56,scissors,50,0
+I1,chair,57,toilet,49,0
+I1,chair,58,frisbee,46,0
+I1,chair,59,broccoli,42,0
+I1,chair,60,horse,42,0
+I1,chair,61,bus,39,0
+I1,chair,62,airplane,36,0
+I1,chair,63,surfboard,34,0
+I1,chair,64,elephant,33,0
+I1,chair,65,traffic light,30,0
+I1,chair,66,kite,29,1
+I1,chair,67,toaster,29,0
+I1,chair,68,skateboard,28,0
+I1,chair,69,skis,25,0
+I1,chair,70,toothbrush,25,0
+I1,chair,71,fire hydrant,15,0
+I1,chair,72,stop sign,13,0
+I1,chair,73,cow,12,0
+I1,chair,74,snowboard,12,0
+I1,chair,75,sheep,11,0
+I1,chair,76,hair drier,6,0
+I1,chair,77,parking meter,6,0
+I1,chair,78,giraffe,4,0
+I1,chair,79,zebra,3,0
+I1,car,1,person,3241,0
+I1,car,2,truck,1408,0
+I1,car,3,traffic light,931,1
+I1,car,4,bus,789,0
+I1,car,5,motorcycle,516,0
+I1,car,6,bicycle,504,1
+I1,car,7,handbag,500,0
+I1,car,8,train,468,0
+I1,car,9,backpack,367,0
+I1,car,10,bench,327,0
+I1,car,11,chair,294,0
+I1,car,12,stop sign,278,0
+I1,car,13,fire hydrant,273,0
+I1,car,14,umbrella,255,0
+I1,car,15,skateboard,219,1
+I1,car,16,dog,214,0
+I1,car,17,clock,212,0
+I1,car,18,cell phone,199,0
+I1,car,19,dining table,179,0
+I1,car,20,parking meter,177,0
+I1,car,21,orange,161,1
+I1,car,22,potted plant,153,0
+I1,car,23,horse,150,0
+I1,car,24,suitcase,126,0
+I1,car,25,boat,118,0
+I1,car,26,sports ball,115,0
+I1,car,27,airplane,112,0
+I1,car,28,bottle,106,0
+I1,car,29,tie,104,0
+I1,car,30,kite,93,0
+I1,car,31,cat,91,0
+I1,car,32,frisbee,89,0
+I1,car,33,cup,79,0
+I1,car,34,bird,73,0
+I1,car,35,cow,66,0
+I1,car,36,surfboard,55,0
+I1,car,37,baseball bat,53,0
+I1,car,38,bed,53,0
+I1,car,39,bowl,47,0
+I1,car,40,baseball glove,45,0
+I1,car,41,sheep,43,0
+I1,car,42,tv,40,0
+I1,car,43,book,39,1
+I1,car,44,elephant,39,0
+I1,car,45,laptop,35,0
+I1,car,46,skis,34,0
+I1,car,47,pizza,33,0
+I1,car,48,teddy bear,32,0
+I1,car,49,donut,29,0
+I1,car,50,cake,28,0
+I1,car,51,banana,27,0
+I1,car,52,couch,27,0
+I1,car,53,sandwich,27,0
+I1,car,54,hot dog,26,0
+I1,car,55,tennis racket,26,0
+I1,car,56,bear,24,0
+I1,car,57,giraffe,24,0
+I1,car,58,knife,21,0
+I1,car,59,zebra,21,0
+I1,car,60,vase,20,0
+I1,car,61,fork,19,0
+I1,car,62,apple,18,0
+I1,car,63,keyboard,18,0
+I1,car,64,spoon,17,0
+I1,car,65,oven,16,0
+I1,car,66,wine glass,16,0
+I1,car,67,mouse,15,0
+I1,car,68,snowboard,15,1
+I1,car,69,refrigerator,13,0
+I1,car,70,remote,13,0
+I1,car,71,carrot,12,0
+I1,car,72,toilet,10,0
+I1,car,73,sink,8,0
+I1,car,74,microwave,7,0
+I1,car,75,toothbrush,4,0
+I1,car,76,broccoli,3,0
+I1,car,77,scissors,3,0
+I1,car,78,hair drier,2,0
+I1,car,79,toaster,1,0
+I2,,1,person,22755,42
+I2,,2,dining table,6760,59
+I2,,3,car,4790,9
+I2,,4,chair,4789,19
+I2,,5,cup,3166,15
+I2,,6,bottle,2944,12
+I2,,7,bowl,2892,40
+I2,,8,handbag,2299,0
+I2,,9,truck,2149,2
+I2,,10,bench,2081,16
+I2,,11,sports ball,2077,15
+I2,,12,book,1871,5
+I2,,13,cell phone,1861,11
+I2,,14,backpack,1847,1
+I2,,15,clock,1726,5
+I2,,16,tv,1683,4
+I2,,17,laptop,1664,5
+I2,,18,dog,1635,1
+I2,,19,sink,1634,2
+I2,,20,couch,1553,7
+I2,,21,potted plant,1550,3
+I2,,22,cat,1539,0
+I2,,23,bed,1526,18
+I2,,24,traffic light,1499,11
+I2,,25,orange,1493,57
+I2,,26,train,1439,8
+I2,,27,knife,1428,2
+I2,,28,umbrella,1407,1
+I2,,29,bus,1390,2
+I2,,30,bicycle,1366,3
+I2,,31,tie,1355,3
+I2,,32,surfboard,1315,0
+I2,,33,bird,1255,4
+I2,,34,motorcycle,1248,0
+I2,,35,vase,1228,2
+I2,,36,spoon,1209,1
+I2,,37,toilet,1203,2
+I2,,38,tennis racket,1198,0
+I2,,39,fork,1197,2
+I2,,40,skis,1188,5
+I2,,41,boat,1186,4
+I2,,42,pizza,1170,0
+I2,,43,oven,1150,9
+I2,,44,skateboard,1127,1
+I2,,45,cake,1080,2
+I2,,46,horse,1079,3
+I2,,47,remote,1070,5
+I2,,48,sandwich,945,4
+I2,,49,suitcase,934,2
+I2,,50,airplane,928,0
+I2,,51,giraffe,880,1
+I2,,52,wine glass,873,0
+I2,,53,baseball glove,845,0
+I2,,54,keyboard,816,2
+I2,,55,refrigerator,808,8
+I2,,56,baseball bat,806,0
+I2,,57,frisbee,772,0
+I2,,58,kite,754,0
+I2,,59,cow,746,1
+I2,,60,banana,745,0
+I2,,61,elephant,739,1
+I2,,62,teddy bear,734,0
+I2,,63,zebra,720,2
+I2,,64,mouse,710,3
+I2,,65,bear,701,3
+I2,,66,broccoli,680,2
+I2,,67,stop sign,623,0
+I2,,68,carrot,598,0
+I2,,69,fire hydrant,598,0
+I2,,70,apple,581,2
+I2,,71,donut,569,0
+I2,,72,snowboard,559,1
+I2,,73,sheep,533,1
+I2,,74,microwave,528,0
+I2,,75,hot dog,473,1
+I2,,76,toothbrush,345,2
+I2,,77,scissors,303,0
+I2,,78,parking meter,269,0
+I2,,79,toaster,108,1
+I2,,80,hair drier,70,0
+I2,dining table,1,person,2877,6
+I2,dining table,2,chair,2390,3
+I2,dining table,3,cup,2094,5
+I2,dining table,4,bowl,1595,14
+I2,dining table,5,bottle,1309,3
+I2,dining table,6,laptop,1132,3
+I2,dining table,7,knife,1031,0
+I2,dining table,8,fork,962,2
+I2,dining table,9,book,929,2
+I2,dining table,10,tv,892,3
+I2,dining table,11,spoon,822,0
+I2,dining table,12,pizza,761,0
+I2,dining table,13,cake,728,1
+I2,dining table,14,vase,655,1
+I2,dining table,15,wine glass,650,0
+I2,dining table,16,cell phone,643,3
+I2,dining table,17,keyboard,639,1
+I2,dining table,18,sandwich,617,4
+I2,dining table,19,potted plant,614,2
+I2,dining table,20,mouse,597,3
+I2,dining table,21,couch,546,2
+I2,dining table,22,orange,424,8
+I2,dining table,23,broccoli,367,2
+I2,dining table,24,remote,359,2
+I2,dining table,25,carrot,351,0
+I2,dining table,26,handbag,301,0
+I2,dining table,27,cat,282,0
+I2,dining table,28,clock,280,3
+I2,dining table,29,oven,279,4
+I2,dining table,30,apple,278,0
+I2,dining table,31,banana,278,0
+I2,dining table,32,donut,259,0
+I2,dining table,33,bed,253,4
+I2,dining table,34,bench,242,5
+I2,dining table,35,refrigerator,233,4
+I2,dining table,36,hot dog,232,1
+I2,dining table,37,sink,226,0
+I2,dining table,38,tie,219,1
+I2,dining table,39,umbrella,199,0
+I2,dining table,40,car,179,0
+I2,dining table,41,backpack,168,0
+I2,dining table,42,microwave,164,0
+I2,dining table,43,scissors,151,0
+I2,dining table,44,dog,147,0
+I2,dining table,45,teddy bear,130,0
+I2,dining table,46,suitcase,94,0
+I2,dining table,47,bird,91,0
+I2,dining table,48,bicycle,83,0
+I2,dining table,49,bear,79,0
+I2,dining table,50,truck,66,1
+I2,dining table,51,sports ball,50,3
+I2,dining table,52,boat,41,2
+I2,dining table,53,motorcycle,34,0
+I2,dining table,54,toaster,30,1
+I2,dining table,55,horse,28,0
+I2,dining table,56,toilet,23,0
+I2,dining table,57,train,21,0
+I2,dining table,58,frisbee,19,0
+I2,dining table,59,toothbrush,19,0
+I2,dining table,60,traffic light,19,0
+I2,dining table,61,skateboard,18,0
+I2,dining table,62,airplane,16,0
+I2,dining table,63,bus,11,0
+I2,dining table,64,sheep,11,1
+I2,dining table,65,surfboard,11,0
+I2,dining table,66,cow,10,0
+I2,dining table,67,elephant,8,0
+I2,dining table,68,fire hydrant,8,0
+I2,dining table,69,tennis racket,7,0
+I2,dining table,70,hair drier,6,0
+I2,dining table,71,parking meter,6,0
+I2,dining table,72,kite,5,0
+I2,dining table,73,baseball bat,4,0
+I2,dining table,74,skis,4,0
+I2,dining table,75,zebra,4,0
+I2,dining table,76,giraffe,3,0
+I2,dining table,77,snowboard,2,0
+I2,dining table,78,stop sign,2,0
+I2,chair,1,person,3001,4
+I2,chair,2,dining table,2390,14
+I2,chair,3,cup,981,2
+I2,chair,4,couch,819,2
+I2,chair,5,bottle,809,1
+I2,chair,6,book,742,2
+I2,chair,7,tv,720,1
+I2,chair,8,bowl,627,5
+I2,chair,9,laptop,619,1
+I2,chair,10,potted plant,613,2
+I2,chair,11,vase,452,0
+I2,chair,12,knife,383,0
+I2,chair,13,sports ball,375,4
+I2,chair,14,remote,374,2
+I2,chair,15,cell phone,372,5
+I2,chair,16,wine glass,341,0
+I2,chair,17,bed,340,3
+I2,chair,18,handbag,334,0
+I2,chair,19,umbrella,328,0
+I2,chair,20,bench,319,5
+I2,chair,21,fork,315,0
+I2,chair,22,spoon,312,0
+I2,chair,23,car,294,0
+I2,chair,24,cat,287,0
+I2,chair,25,clock,272,3
+I2,chair,26,tennis racket,271,0
+I2,chair,27,keyboard,270,0
+I2,chair,28,mouse,267,1
+I2,chair,29,backpack,259,1
+I2,chair,30,refrigerator,250,2
+I2,chair,31,dog,248,0
+I2,chair,32,cake,245,0
+I2,chair,33,tie,245,1
+I2,chair,34,pizza,238,0
+I2,chair,35,sink,232,0
+I2,chair,36,oven,231,2
+I2,chair,37,orange,169,13
+I2,chair,38,microwave,151,0
+I2,chair,39,sandwich,150,0
+I2,chair,40,teddy bear,143,0
+I2,chair,41,suitcase,137,0
+I2,chair,42,bicycle,135,0
+I2,chair,43,baseball bat,119,0
+I2,chair,44,baseball glove,115,0
+I2,chair,45,truck,103,1
+I2,chair,46,apple,93,1
+I2,chair,47,motorcycle,86,0
+I2,chair,48,donut,80,0
+I2,chair,49,banana,79,0
+I2,chair,50,hot dog,75,1
+I2,chair,51,bear,74,0
+I2,chair,52,boat,72,1
+I2,chair,53,bird,71,1
+I2,chair,54,train,64,0
+I2,chair,55,carrot,54,0
+I2,chair,56,scissors,50,0
+I2,chair,57,toilet,49,0
+I2,chair,58,frisbee,46,0
+I2,chair,59,broccoli,42,0
+I2,chair,60,horse,42,0
+I2,chair,61,bus,39,0
+I2,chair,62,airplane,36,0
+I2,chair,63,surfboard,34,0
+I2,chair,64,elephant,33,0
+I2,chair,65,traffic light,30,0
+I2,chair,66,kite,29,0
+I2,chair,67,toaster,29,1
+I2,chair,68,skateboard,28,0
+I2,chair,69,skis,25,0
+I2,chair,70,toothbrush,25,0
+I2,chair,71,fire hydrant,15,0
+I2,chair,72,stop sign,13,0
+I2,chair,73,cow,12,0
+I2,chair,74,snowboard,12,0
+I2,chair,75,sheep,11,0
+I2,chair,76,hair drier,6,0
+I2,chair,77,parking meter,6,0
+I2,chair,78,giraffe,4,1
+I2,chair,79,zebra,3,1
+I2,car,1,person,3241,6
+I2,car,2,truck,1408,0
+I2,car,3,traffic light,931,4
+I2,car,4,bus,789,1
+I2,car,5,motorcycle,516,0
+I2,car,6,bicycle,504,2
+I2,car,7,handbag,500,0
+I2,car,8,train,468,0
+I2,car,9,backpack,367,1
+I2,car,10,bench,327,2
+I2,car,11,chair,294,1
+I2,car,12,stop sign,278,0
+I2,car,13,fire hydrant,273,0
+I2,car,14,umbrella,255,0
+I2,car,15,skateboard,219,1
+I2,car,16,dog,214,0
+I2,car,17,clock,212,0
+I2,car,18,cell phone,199,2
+I2,car,19,dining table,179,0
+I2,car,20,parking meter,177,0
+I2,car,21,orange,161,9
+I2,car,22,potted plant,153,0
+I2,car,23,horse,150,0
+I2,car,24,suitcase,126,1
+I2,car,25,boat,118,0
+I2,car,26,sports ball,115,0
+I2,car,27,airplane,112,0
+I2,car,28,bottle,106,0
+I2,car,29,tie,104,0
+I2,car,30,kite,93,0
+I2,car,31,cat,91,0
+I2,car,32,frisbee,89,0
+I2,car,33,cup,79,0
+I2,car,34,bird,73,0
+I2,car,35,cow,66,0
+I2,car,36,surfboard,55,0
+I2,car,37,baseball bat,53,0
+I2,car,38,bed,53,1
+I2,car,39,bowl,47,1
+I2,car,40,baseball glove,45,0
+I2,car,41,sheep,43,0
+I2,car,42,tv,40,0
+I2,car,43,book,39,1
+I2,car,44,elephant,39,0
+I2,car,45,laptop,35,0
+I2,car,46,skis,34,0
+I2,car,47,pizza,33,0
+I2,car,48,teddy bear,32,0
+I2,car,49,donut,29,0
+I2,car,50,cake,28,1
+I2,car,51,banana,27,0
+I2,car,52,couch,27,0
+I2,car,53,sandwich,27,0
+I2,car,54,hot dog,26,0
+I2,car,55,tennis racket,26,0
+I2,car,56,bear,24,0
+I2,car,57,giraffe,24,0
+I2,car,58,knife,21,0
+I2,car,59,zebra,21,1
+I2,car,60,vase,20,0
+I2,car,61,fork,19,0
+I2,car,62,apple,18,0
+I2,car,63,keyboard,18,0
+I2,car,64,spoon,17,0
+I2,car,65,oven,16,0
+I2,car,66,wine glass,16,0
+I2,car,67,mouse,15,0
+I2,car,68,snowboard,15,0
+I2,car,69,refrigerator,13,0
+I2,car,70,remote,13,0
+I2,car,71,carrot,12,0
+I2,car,72,toilet,10,0
+I2,car,73,sink,8,0
+I2,car,74,microwave,7,0
+I2,car,75,toothbrush,4,0
+I2,car,76,broccoli,3,0
+I2,car,77,scissors,3,0
+I2,car,78,hair drier,2,0
+I2,car,79,toaster,1,0

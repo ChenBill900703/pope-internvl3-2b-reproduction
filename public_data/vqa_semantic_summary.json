@@ -1,0 +1,32 @@
+{
+  "records": 240,
+  "verdicts_all": {
+    "unassessable": 138,
+    "equivalent": 81,
+    "ambiguous": 12,
+    "not_equivalent": 9
+  },
+  "confidence_all": {
+    "low": 150,
+    "high": 65,
+    "medium": 25
+  },
+  "differences_all": {
+    "both_zero_unresolved": 141,
+    "D_supports_C_zero__potential_C_false_negative": 24,
+    "both_positive_credit": 56,
+    "D_abstains_C_positive__unresolved": 3,
+    "excluded_both": 7,
+    "both_zero_D_explicit_mismatch": 9
+  },
+  "controls_passed": 30,
+  "controls_total": 32,
+  "controls_are_development_diagnostics_not_heldout_accuracy": true,
+  "reference_order_all_invariant": true,
+  "all_new_results_are_sample_only": true,
+  "source_ABC_unchanged": true,
+  "open_source_judge_model_executed": false,
+  "paid_api_called": false,
+  "no_human_annotations": true,
+  "not_paper_ChatGPT_assisted": true
+}

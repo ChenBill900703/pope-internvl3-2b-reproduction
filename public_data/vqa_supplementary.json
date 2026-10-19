@@ -1,0 +1,68 @@
+[
+  {
+    "dataset": "aokvqa",
+    "scheme": "A",
+    "n_raw": 515,
+    "n_eligible": 490,
+    "n_excluded": 25,
+    "score_sum": 0.0,
+    "score_percent": 0.0,
+    "n_ambiguous": 126,
+    "n_unparseable": 141
+  },
+  {
+    "dataset": "aokvqa",
+    "scheme": "B",
+    "n_raw": 515,
+    "n_eligible": 490,
+    "n_excluded": 25,
+    "score_sum": 5.0,
+    "score_percent": 1.0204081632653061,
+    "n_ambiguous": 126,
+    "n_unparseable": 141
+  },
+  {
+    "dataset": "aokvqa",
+    "scheme": "C",
+    "n_raw": 515,
+    "n_eligible": 490,
+    "n_excluded": 25,
+    "score_sum": 48.0,
+    "score_percent": 9.795918367346939,
+    "n_ambiguous": 126,
+    "n_unparseable": 141
+  },
+  {
+    "dataset": "gqa",
+    "scheme": "A",
+    "n_raw": 10701,
+    "n_eligible": 10701,
+    "n_excluded": 0,
+    "score_sum": 0.0,
+    "score_percent": 0.0,
+    "n_ambiguous": 961,
+    "n_unparseable": 1797
+  },
+  {
+    "dataset": "gqa",
+    "scheme": "B",
+    "n_raw": 10701,
+    "n_eligible": 10701,
+    "n_excluded": 0,
+    "score_sum": 77.0,
+    "score_percent": 0.7195589197271283,
+    "n_ambiguous": 961,
+    "n_unparseable": 1797
+  },
+  {
+    "dataset": "gqa",
+    "scheme": "C",
+    "n_raw": 10701,
+    "n_eligible": 10701,
+    "n_excluded": 0,
+    "score_sum": 3893.0,
+    "score_percent": 36.37977759087936,
+    "n_ambiguous": 961,
+    "n_unparseable": 1797
+  }
+]

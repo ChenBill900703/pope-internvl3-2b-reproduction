@@ -1,0 +1,31 @@
+{
+  "after_rules_freeze": true,
+  "challenge_n": 17,
+  "passed": 4,
+  "false_accept_n": 5,
+  "abstentions_n": 10,
+  "not_human_or_dataset_accuracy": true,
+  "passed_cases": [
+    "later_absence_contradiction",
+    "later_correction",
+    "inverse_role_positive",
+    "all_quantifier_exception"
+  ],
+  "failed_cases": [
+    "wrong_counted_object",
+    "wrong_actor",
+    "wrong_color_subject",
+    "unhandled_action_subject",
+    "opposite_purpose_food",
+    "currency",
+    "later_relevant_answer",
+    "negated_distractor_same_clause",
+    "binary_incompatible_action",
+    "wrong_possessor_color",
+    "food_detail_conflict",
+    "qualified_reference",
+    "negated_causal_reference"
+  ],
+  "do_not_adopt_for_full_dataset": true,
+  "no_rule_changes_in_response_to_these_challenges": true
+}

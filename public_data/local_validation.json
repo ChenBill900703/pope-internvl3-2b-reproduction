@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "date": "2026-10-19",
+  "record_counts": {
+    "table3": 9000,
+    "captions": 4966,
+    "table4": 20000,
+    "appendixD": 18000,
+    "vqa": 11216
+  },
+  "independent_question_label_image_checks": 27000,
+  "unique_images_hashed": 1489,
+  "chair_parser_recomputed_records": 12966,
+  "hra_hrc_rows_recomputed": 24,
+  "object_frequency_rows_recomputed": 632,
+  "vqa_raw_export_records_checked": 11216,
+  "gqa_leading_zero_ids": 5461,
+  "sqlite_read_mode": "ro (WAL honored)",
+  "caption_metrics_scope": "Previously saved evaluator aggregates; BLEU/METEOR/ROUGE not rerun by this script",
+  "no_gpu_inference": true,
+  "no_source_results_rewritten": true
+}

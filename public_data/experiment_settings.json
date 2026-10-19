@@ -1,0 +1,87 @@
+{
+  "model": "OpenGVLab/InternVL3-2B",
+  "revision": "899155015275a9b7338c7f4677e19c784e0e5a21",
+  "dtype": "bfloat16",
+  "quantization": null,
+  "flash_attention": false,
+  "batch_size": 1,
+  "seed": 0,
+  "image_size": 448,
+  "max_num": 12,
+  "use_thumbnail": true,
+  "history": null,
+  "prompt": "<image>\n{official_question_text}",
+  "generation": {
+    "do_sample": false,
+    "num_beams": 1,
+    "max_new_tokens": 1024
+  },
+  "torch": "2.6.0+cu124",
+  "torchvision": "0.21.0+cu124",
+  "transformers": "4.52.1",
+  "questions": {
+    "random": "382f8d2ef54713d68480304a702809a6eecce95c249e0ee36631ae73427d62c5",
+    "popular": "72c1a8ad45d0c13514f5f22598261df41d3b533854d29682e924db50ed8aa753",
+    "adversarial": "420b3407db1fa9f1187a805dca41cb7b97fd91504e6c2179706188c107fb8ef8"
+  },
+  "python": "3.12.14",
+  "hardware": "NVIDIA RTX 3070 Ti 8192 MiB",
+  "platform": "Windows",
+  "pope_commit": "08d957b917e5a378a2f99d35b6293c536a66298b",
+  "dtype_diagnostic": "FP16 language logits NaN; not OOM. Formal BF16 unquantized.",
+  "reuse_policy": "Identical image SHA and full native question/prompt, no history; earlier smaller token budgets only reused if completed EOS, with provenance. Not every saved row was freshly generated at max_new_tokens=1024.",
+  "count_policy": "Saved records include cross-experiment reuse; not independent fresh inferences.",
+  "caption_prompts": {
+    "I1": "Generate a short caption of the image.",
+    "I2": "Provide a brief description of the given image."
+  },
+  "stability_caption_prompts": {
+    "C1": "Generate a short caption of the image.",
+    "C2": "Provide a brief description of the image.",
+    "C3": "Generate a concise description for the image.",
+    "C4": "Create a short textual summary for the image."
+  },
+  "stability_pope_prompts": {
+    "P1": "Is there a/an <object> in the image? (exact original question text)",
+    "P2": "Does the image contain a <object>?",
+    "P3": "Have you noticed a <object> in the image?",
+    "P4": "Can you see a <object> in the image?"
+  },
+  "stability_pope_question_sha256": {
+    "P1": "bbfabe3c5399133781f27ce82acbccd7402b79a774332057b26f0e923eade054",
+    "P2": "d102b12f7c970d63b17455b82c817a2a06ac332a316d13ee4a4569932ec5b350",
+    "P3": "8b9a927720649c207e6f205d6509d2cc514ec6251c5629c6d4ec684ea5b160e3",
+    "P4": "8df7fd0e4b170bb629b429a44208c9ea21a17435f12c8929bcee8befc14249ce"
+  },
+  "stability_article_policy": {
+    "P1": "P1 exact published question text (a/an); P2-P4 literal a as printed in Table 4",
+    "P2": "P1 exact published question text (a/an); P2-P4 literal a as printed in Table 4",
+    "P3": "P1 exact published question text (a/an); P2-P4 literal a as printed in Table 4",
+    "P4": "P1 exact published question text (a/an); P2-P4 literal a as printed in Table 4"
+  },
+  "chair_parser": {
+    "at": "2026-10-15T16:09:39.944675+00:00",
+    "passed": true,
+    "source_chair_commit": "6e4d33c4bedf6dfcd24c61bf527f40714717be47",
+    "chair_source_sha256": "7fd1cf6f6277d4f608d4b3d3a0fc4e4b88e027f6adce67ac4105913761f8db0e",
+    "pattern_source_sha256": "5c140129923617229220803d95a812db3734e99315fb9fc7d39136918ef2bb29",
+    "synonyms_sha256": "5e39ae86ae6d6162559d80025e90944c33abe797fb098fb96d25e774d0c8e7ce",
+    "gt_images": 40504,
+    "checks": 3,
+    "modifications": [
+      "Resolve synonyms file path only",
+      "Extract Python3-compatible original CHAIR constructor and word parser unchanged",
+      "Use original Pattern singularize and its rules without unrelated Pattern dependencies",
+      "Use POPE authors published combined segmentation/caption objects as GT"
+    ]
+  },
+  "vqa_scope": {
+    "aokvqa_raw": 515,
+    "aokvqa_eligible": 490,
+    "aokvqa_excluded": 25,
+    "gqa_raw_eligible": 10701,
+    "GQA_leading_zero_ids": 5461,
+    "ABC": "supplementary, not ChatGPT-assisted",
+    "D": "symbolic sample-only, failed reliability challenge, not formal accuracy"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "date": "2026-10-19",
+  "sample_rows": 240,
+  "D_frozen_judgments_replayed": 240,
+  "sample_ABCD_credit_rows_recomputed": 8,
+  "original_ABC_modified": false,
+  "no_model_inference": true,
+  "no_paid_API": true,
+  "no_human_ground_truth": true,
+  "D_is_reliable": false,
+  "purpose": "Verify faithful export, not semantic accuracy."
+}

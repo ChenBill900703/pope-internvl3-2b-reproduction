@@ -1,0 +1,9 @@
+{
+  "complete": true,
+  "n_pope_per_prompt": 3000,
+  "n_caption_per_prompt": 2000,
+  "POPE_F1_mean": 0.9198552663050041,
+  "POPE_F1_population_std": 0.009340435658183882,
+  "CHAIRi_mean": 0.041009701110887795,
+  "CHAIRi_population_std": 0.010791429589501982
+}

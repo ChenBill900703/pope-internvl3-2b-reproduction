@@ -1,0 +1,5058 @@
+[
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 1,
+    "object": "person",
+    "image_frequency": 22755,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 2,
+    "object": "dining table",
+    "image_frequency": 6760,
+    "hallucination_count": 15
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 3,
+    "object": "car",
+    "image_frequency": 4790,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 4,
+    "object": "chair",
+    "image_frequency": 4789,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 5,
+    "object": "cup",
+    "image_frequency": 3166,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 6,
+    "object": "bottle",
+    "image_frequency": 2944,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 7,
+    "object": "bowl",
+    "image_frequency": 2892,
+    "hallucination_count": 3
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 8,
+    "object": "handbag",
+    "image_frequency": 2299,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 9,
+    "object": "truck",
+    "image_frequency": 2149,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 10,
+    "object": "bench",
+    "image_frequency": 2081,
+    "hallucination_count": 3
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 11,
+    "object": "sports ball",
+    "image_frequency": 2077,
+    "hallucination_count": 12
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 12,
+    "object": "book",
+    "image_frequency": 1871,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 13,
+    "object": "cell phone",
+    "image_frequency": 1861,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 14,
+    "object": "backpack",
+    "image_frequency": 1847,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 15,
+    "object": "clock",
+    "image_frequency": 1726,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 16,
+    "object": "tv",
+    "image_frequency": 1683,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 17,
+    "object": "laptop",
+    "image_frequency": 1664,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 18,
+    "object": "dog",
+    "image_frequency": 1635,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 19,
+    "object": "sink",
+    "image_frequency": 1634,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 20,
+    "object": "couch",
+    "image_frequency": 1553,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 21,
+    "object": "potted plant",
+    "image_frequency": 1550,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 22,
+    "object": "cat",
+    "image_frequency": 1539,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 23,
+    "object": "bed",
+    "image_frequency": 1526,
+    "hallucination_count": 4
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 24,
+    "object": "traffic light",
+    "image_frequency": 1499,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 25,
+    "object": "orange",
+    "image_frequency": 1493,
+    "hallucination_count": 14
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 26,
+    "object": "train",
+    "image_frequency": 1439,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 27,
+    "object": "knife",
+    "image_frequency": 1428,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 28,
+    "object": "umbrella",
+    "image_frequency": 1407,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 29,
+    "object": "bus",
+    "image_frequency": 1390,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 30,
+    "object": "bicycle",
+    "image_frequency": 1366,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 31,
+    "object": "tie",
+    "image_frequency": 1355,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 32,
+    "object": "surfboard",
+    "image_frequency": 1315,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 33,
+    "object": "bird",
+    "image_frequency": 1255,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 34,
+    "object": "motorcycle",
+    "image_frequency": 1248,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 35,
+    "object": "vase",
+    "image_frequency": 1228,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 36,
+    "object": "spoon",
+    "image_frequency": 1209,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 37,
+    "object": "toilet",
+    "image_frequency": 1203,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 38,
+    "object": "tennis racket",
+    "image_frequency": 1198,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 39,
+    "object": "fork",
+    "image_frequency": 1197,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 40,
+    "object": "skis",
+    "image_frequency": 1188,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 41,
+    "object": "boat",
+    "image_frequency": 1186,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 42,
+    "object": "pizza",
+    "image_frequency": 1170,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 43,
+    "object": "oven",
+    "image_frequency": 1150,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 44,
+    "object": "skateboard",
+    "image_frequency": 1127,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 45,
+    "object": "cake",
+    "image_frequency": 1080,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 46,
+    "object": "horse",
+    "image_frequency": 1079,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 47,
+    "object": "remote",
+    "image_frequency": 1070,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 48,
+    "object": "sandwich",
+    "image_frequency": 945,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 49,
+    "object": "suitcase",
+    "image_frequency": 934,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 50,
+    "object": "airplane",
+    "image_frequency": 928,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 51,
+    "object": "giraffe",
+    "image_frequency": 880,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 52,
+    "object": "wine glass",
+    "image_frequency": 873,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 53,
+    "object": "baseball glove",
+    "image_frequency": 845,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 54,
+    "object": "keyboard",
+    "image_frequency": 816,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 55,
+    "object": "refrigerator",
+    "image_frequency": 808,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 56,
+    "object": "baseball bat",
+    "image_frequency": 806,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 57,
+    "object": "frisbee",
+    "image_frequency": 772,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 58,
+    "object": "kite",
+    "image_frequency": 754,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 59,
+    "object": "cow",
+    "image_frequency": 746,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 60,
+    "object": "banana",
+    "image_frequency": 745,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 61,
+    "object": "elephant",
+    "image_frequency": 739,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 62,
+    "object": "teddy bear",
+    "image_frequency": 734,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 63,
+    "object": "zebra",
+    "image_frequency": 720,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 64,
+    "object": "mouse",
+    "image_frequency": 710,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 65,
+    "object": "bear",
+    "image_frequency": 701,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 66,
+    "object": "broccoli",
+    "image_frequency": 680,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 67,
+    "object": "stop sign",
+    "image_frequency": 623,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 68,
+    "object": "carrot",
+    "image_frequency": 598,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 69,
+    "object": "fire hydrant",
+    "image_frequency": 598,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 70,
+    "object": "apple",
+    "image_frequency": 581,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 71,
+    "object": "donut",
+    "image_frequency": 569,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 72,
+    "object": "snowboard",
+    "image_frequency": 559,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 73,
+    "object": "sheep",
+    "image_frequency": 533,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 74,
+    "object": "microwave",
+    "image_frequency": 528,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 75,
+    "object": "hot dog",
+    "image_frequency": 473,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 76,
+    "object": "toothbrush",
+    "image_frequency": 345,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 77,
+    "object": "scissors",
+    "image_frequency": 303,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 78,
+    "object": "parking meter",
+    "image_frequency": 269,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 79,
+    "object": "toaster",
+    "image_frequency": 108,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "rank": 80,
+    "object": "hair drier",
+    "image_frequency": 70,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 1,
+    "object": "person",
+    "image_frequency": 2877,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 2,
+    "object": "chair",
+    "image_frequency": 2390,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 3,
+    "object": "cup",
+    "image_frequency": 2094,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 4,
+    "object": "bowl",
+    "image_frequency": 1595,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 5,
+    "object": "bottle",
+    "image_frequency": 1309,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 6,
+    "object": "laptop",
+    "image_frequency": 1132,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 7,
+    "object": "knife",
+    "image_frequency": 1031,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 8,
+    "object": "fork",
+    "image_frequency": 962,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 9,
+    "object": "book",
+    "image_frequency": 929,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 10,
+    "object": "tv",
+    "image_frequency": 892,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 11,
+    "object": "spoon",
+    "image_frequency": 822,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 12,
+    "object": "pizza",
+    "image_frequency": 761,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 13,
+    "object": "cake",
+    "image_frequency": 728,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 14,
+    "object": "vase",
+    "image_frequency": 655,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 15,
+    "object": "wine glass",
+    "image_frequency": 650,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 16,
+    "object": "cell phone",
+    "image_frequency": 643,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 17,
+    "object": "keyboard",
+    "image_frequency": 639,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 18,
+    "object": "sandwich",
+    "image_frequency": 617,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 19,
+    "object": "potted plant",
+    "image_frequency": 614,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 20,
+    "object": "mouse",
+    "image_frequency": 597,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 21,
+    "object": "couch",
+    "image_frequency": 546,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 22,
+    "object": "orange",
+    "image_frequency": 424,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 23,
+    "object": "broccoli",
+    "image_frequency": 367,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 24,
+    "object": "remote",
+    "image_frequency": 359,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 25,
+    "object": "carrot",
+    "image_frequency": 351,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 26,
+    "object": "handbag",
+    "image_frequency": 301,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 27,
+    "object": "cat",
+    "image_frequency": 282,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 28,
+    "object": "clock",
+    "image_frequency": 280,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 29,
+    "object": "oven",
+    "image_frequency": 279,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 30,
+    "object": "apple",
+    "image_frequency": 278,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 31,
+    "object": "banana",
+    "image_frequency": 278,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 32,
+    "object": "donut",
+    "image_frequency": 259,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 33,
+    "object": "bed",
+    "image_frequency": 253,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 34,
+    "object": "bench",
+    "image_frequency": 242,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 35,
+    "object": "refrigerator",
+    "image_frequency": 233,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 36,
+    "object": "hot dog",
+    "image_frequency": 232,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 37,
+    "object": "sink",
+    "image_frequency": 226,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 38,
+    "object": "tie",
+    "image_frequency": 219,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 39,
+    "object": "umbrella",
+    "image_frequency": 199,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 40,
+    "object": "car",
+    "image_frequency": 179,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 41,
+    "object": "backpack",
+    "image_frequency": 168,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 42,
+    "object": "microwave",
+    "image_frequency": 164,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 43,
+    "object": "scissors",
+    "image_frequency": 151,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 44,
+    "object": "dog",
+    "image_frequency": 147,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 45,
+    "object": "teddy bear",
+    "image_frequency": 130,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 46,
+    "object": "suitcase",
+    "image_frequency": 94,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 47,
+    "object": "bird",
+    "image_frequency": 91,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 48,
+    "object": "bicycle",
+    "image_frequency": 83,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 49,
+    "object": "bear",
+    "image_frequency": 79,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 50,
+    "object": "truck",
+    "image_frequency": 66,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 51,
+    "object": "sports ball",
+    "image_frequency": 50,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 52,
+    "object": "boat",
+    "image_frequency": 41,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 53,
+    "object": "motorcycle",
+    "image_frequency": 34,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 54,
+    "object": "toaster",
+    "image_frequency": 30,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 55,
+    "object": "horse",
+    "image_frequency": 28,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 56,
+    "object": "toilet",
+    "image_frequency": 23,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 57,
+    "object": "train",
+    "image_frequency": 21,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 58,
+    "object": "frisbee",
+    "image_frequency": 19,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 59,
+    "object": "toothbrush",
+    "image_frequency": 19,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 60,
+    "object": "traffic light",
+    "image_frequency": 19,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 61,
+    "object": "skateboard",
+    "image_frequency": 18,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 62,
+    "object": "airplane",
+    "image_frequency": 16,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 63,
+    "object": "bus",
+    "image_frequency": 11,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 64,
+    "object": "sheep",
+    "image_frequency": 11,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 65,
+    "object": "surfboard",
+    "image_frequency": 11,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 66,
+    "object": "cow",
+    "image_frequency": 10,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 67,
+    "object": "elephant",
+    "image_frequency": 8,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 68,
+    "object": "fire hydrant",
+    "image_frequency": 8,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 69,
+    "object": "tennis racket",
+    "image_frequency": 7,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 70,
+    "object": "hair drier",
+    "image_frequency": 6,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 71,
+    "object": "parking meter",
+    "image_frequency": 6,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 72,
+    "object": "kite",
+    "image_frequency": 5,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 73,
+    "object": "baseball bat",
+    "image_frequency": 4,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 74,
+    "object": "skis",
+    "image_frequency": 4,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 75,
+    "object": "zebra",
+    "image_frequency": 4,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 76,
+    "object": "giraffe",
+    "image_frequency": 3,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 77,
+    "object": "snowboard",
+    "image_frequency": 2,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "rank": 78,
+    "object": "stop sign",
+    "image_frequency": 2,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 1,
+    "object": "person",
+    "image_frequency": 3001,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 2,
+    "object": "dining table",
+    "image_frequency": 2390,
+    "hallucination_count": 6
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 3,
+    "object": "cup",
+    "image_frequency": 981,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 4,
+    "object": "couch",
+    "image_frequency": 819,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 5,
+    "object": "bottle",
+    "image_frequency": 809,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 6,
+    "object": "book",
+    "image_frequency": 742,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 7,
+    "object": "tv",
+    "image_frequency": 720,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 8,
+    "object": "bowl",
+    "image_frequency": 627,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 9,
+    "object": "laptop",
+    "image_frequency": 619,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 10,
+    "object": "potted plant",
+    "image_frequency": 613,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 11,
+    "object": "vase",
+    "image_frequency": 452,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 12,
+    "object": "knife",
+    "image_frequency": 383,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 13,
+    "object": "sports ball",
+    "image_frequency": 375,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 14,
+    "object": "remote",
+    "image_frequency": 374,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 15,
+    "object": "cell phone",
+    "image_frequency": 372,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 16,
+    "object": "wine glass",
+    "image_frequency": 341,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 17,
+    "object": "bed",
+    "image_frequency": 340,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 18,
+    "object": "handbag",
+    "image_frequency": 334,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 19,
+    "object": "umbrella",
+    "image_frequency": 328,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 20,
+    "object": "bench",
+    "image_frequency": 319,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 21,
+    "object": "fork",
+    "image_frequency": 315,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 22,
+    "object": "spoon",
+    "image_frequency": 312,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 23,
+    "object": "car",
+    "image_frequency": 294,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 24,
+    "object": "cat",
+    "image_frequency": 287,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 25,
+    "object": "clock",
+    "image_frequency": 272,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 26,
+    "object": "tennis racket",
+    "image_frequency": 271,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 27,
+    "object": "keyboard",
+    "image_frequency": 270,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 28,
+    "object": "mouse",
+    "image_frequency": 267,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 29,
+    "object": "backpack",
+    "image_frequency": 259,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 30,
+    "object": "refrigerator",
+    "image_frequency": 250,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 31,
+    "object": "dog",
+    "image_frequency": 248,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 32,
+    "object": "cake",
+    "image_frequency": 245,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 33,
+    "object": "tie",
+    "image_frequency": 245,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 34,
+    "object": "pizza",
+    "image_frequency": 238,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 35,
+    "object": "sink",
+    "image_frequency": 232,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 36,
+    "object": "oven",
+    "image_frequency": 231,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 37,
+    "object": "orange",
+    "image_frequency": 169,
+    "hallucination_count": 3
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 38,
+    "object": "microwave",
+    "image_frequency": 151,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 39,
+    "object": "sandwich",
+    "image_frequency": 150,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 40,
+    "object": "teddy bear",
+    "image_frequency": 143,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 41,
+    "object": "suitcase",
+    "image_frequency": 137,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 42,
+    "object": "bicycle",
+    "image_frequency": 135,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 43,
+    "object": "baseball bat",
+    "image_frequency": 119,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 44,
+    "object": "baseball glove",
+    "image_frequency": 115,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 45,
+    "object": "truck",
+    "image_frequency": 103,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 46,
+    "object": "apple",
+    "image_frequency": 93,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 47,
+    "object": "motorcycle",
+    "image_frequency": 86,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 48,
+    "object": "donut",
+    "image_frequency": 80,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 49,
+    "object": "banana",
+    "image_frequency": 79,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 50,
+    "object": "hot dog",
+    "image_frequency": 75,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 51,
+    "object": "bear",
+    "image_frequency": 74,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 52,
+    "object": "boat",
+    "image_frequency": 72,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 53,
+    "object": "bird",
+    "image_frequency": 71,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 54,
+    "object": "train",
+    "image_frequency": 64,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 55,
+    "object": "carrot",
+    "image_frequency": 54,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 56,
+    "object": "scissors",
+    "image_frequency": 50,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 57,
+    "object": "toilet",
+    "image_frequency": 49,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 58,
+    "object": "frisbee",
+    "image_frequency": 46,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 59,
+    "object": "broccoli",
+    "image_frequency": 42,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 60,
+    "object": "horse",
+    "image_frequency": 42,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 61,
+    "object": "bus",
+    "image_frequency": 39,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 62,
+    "object": "airplane",
+    "image_frequency": 36,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 63,
+    "object": "surfboard",
+    "image_frequency": 34,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 64,
+    "object": "elephant",
+    "image_frequency": 33,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 65,
+    "object": "traffic light",
+    "image_frequency": 30,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 66,
+    "object": "kite",
+    "image_frequency": 29,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 67,
+    "object": "toaster",
+    "image_frequency": 29,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 68,
+    "object": "skateboard",
+    "image_frequency": 28,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 69,
+    "object": "skis",
+    "image_frequency": 25,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 70,
+    "object": "toothbrush",
+    "image_frequency": 25,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 71,
+    "object": "fire hydrant",
+    "image_frequency": 15,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 72,
+    "object": "stop sign",
+    "image_frequency": 13,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 73,
+    "object": "cow",
+    "image_frequency": 12,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 74,
+    "object": "snowboard",
+    "image_frequency": 12,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 75,
+    "object": "sheep",
+    "image_frequency": 11,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 76,
+    "object": "hair drier",
+    "image_frequency": 6,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 77,
+    "object": "parking meter",
+    "image_frequency": 6,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 78,
+    "object": "giraffe",
+    "image_frequency": 4,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "rank": 79,
+    "object": "zebra",
+    "image_frequency": 3,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 1,
+    "object": "person",
+    "image_frequency": 3241,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 2,
+    "object": "truck",
+    "image_frequency": 1408,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 3,
+    "object": "traffic light",
+    "image_frequency": 931,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 4,
+    "object": "bus",
+    "image_frequency": 789,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 5,
+    "object": "motorcycle",
+    "image_frequency": 516,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 6,
+    "object": "bicycle",
+    "image_frequency": 504,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 7,
+    "object": "handbag",
+    "image_frequency": 500,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 8,
+    "object": "train",
+    "image_frequency": 468,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 9,
+    "object": "backpack",
+    "image_frequency": 367,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 10,
+    "object": "bench",
+    "image_frequency": 327,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 11,
+    "object": "chair",
+    "image_frequency": 294,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 12,
+    "object": "stop sign",
+    "image_frequency": 278,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 13,
+    "object": "fire hydrant",
+    "image_frequency": 273,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 14,
+    "object": "umbrella",
+    "image_frequency": 255,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 15,
+    "object": "skateboard",
+    "image_frequency": 219,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 16,
+    "object": "dog",
+    "image_frequency": 214,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 17,
+    "object": "clock",
+    "image_frequency": 212,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 18,
+    "object": "cell phone",
+    "image_frequency": 199,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 19,
+    "object": "dining table",
+    "image_frequency": 179,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 20,
+    "object": "parking meter",
+    "image_frequency": 177,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 21,
+    "object": "orange",
+    "image_frequency": 161,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 22,
+    "object": "potted plant",
+    "image_frequency": 153,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 23,
+    "object": "horse",
+    "image_frequency": 150,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 24,
+    "object": "suitcase",
+    "image_frequency": 126,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 25,
+    "object": "boat",
+    "image_frequency": 118,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 26,
+    "object": "sports ball",
+    "image_frequency": 115,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 27,
+    "object": "airplane",
+    "image_frequency": 112,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 28,
+    "object": "bottle",
+    "image_frequency": 106,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 29,
+    "object": "tie",
+    "image_frequency": 104,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 30,
+    "object": "kite",
+    "image_frequency": 93,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 31,
+    "object": "cat",
+    "image_frequency": 91,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 32,
+    "object": "frisbee",
+    "image_frequency": 89,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 33,
+    "object": "cup",
+    "image_frequency": 79,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 34,
+    "object": "bird",
+    "image_frequency": 73,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 35,
+    "object": "cow",
+    "image_frequency": 66,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 36,
+    "object": "surfboard",
+    "image_frequency": 55,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 37,
+    "object": "baseball bat",
+    "image_frequency": 53,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 38,
+    "object": "bed",
+    "image_frequency": 53,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 39,
+    "object": "bowl",
+    "image_frequency": 47,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 40,
+    "object": "baseball glove",
+    "image_frequency": 45,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 41,
+    "object": "sheep",
+    "image_frequency": 43,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 42,
+    "object": "tv",
+    "image_frequency": 40,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 43,
+    "object": "book",
+    "image_frequency": 39,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 44,
+    "object": "elephant",
+    "image_frequency": 39,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 45,
+    "object": "laptop",
+    "image_frequency": 35,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 46,
+    "object": "skis",
+    "image_frequency": 34,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 47,
+    "object": "pizza",
+    "image_frequency": 33,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 48,
+    "object": "teddy bear",
+    "image_frequency": 32,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 49,
+    "object": "donut",
+    "image_frequency": 29,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 50,
+    "object": "cake",
+    "image_frequency": 28,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 51,
+    "object": "banana",
+    "image_frequency": 27,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 52,
+    "object": "couch",
+    "image_frequency": 27,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 53,
+    "object": "sandwich",
+    "image_frequency": 27,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 54,
+    "object": "hot dog",
+    "image_frequency": 26,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 55,
+    "object": "tennis racket",
+    "image_frequency": 26,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 56,
+    "object": "bear",
+    "image_frequency": 24,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 57,
+    "object": "giraffe",
+    "image_frequency": 24,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 58,
+    "object": "knife",
+    "image_frequency": 21,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 59,
+    "object": "zebra",
+    "image_frequency": 21,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 60,
+    "object": "vase",
+    "image_frequency": 20,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 61,
+    "object": "fork",
+    "image_frequency": 19,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 62,
+    "object": "apple",
+    "image_frequency": 18,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 63,
+    "object": "keyboard",
+    "image_frequency": 18,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 64,
+    "object": "spoon",
+    "image_frequency": 17,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 65,
+    "object": "oven",
+    "image_frequency": 16,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 66,
+    "object": "wine glass",
+    "image_frequency": 16,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 67,
+    "object": "mouse",
+    "image_frequency": 15,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 68,
+    "object": "snowboard",
+    "image_frequency": 15,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 69,
+    "object": "refrigerator",
+    "image_frequency": 13,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 70,
+    "object": "remote",
+    "image_frequency": 13,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 71,
+    "object": "carrot",
+    "image_frequency": 12,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 72,
+    "object": "toilet",
+    "image_frequency": 10,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 73,
+    "object": "sink",
+    "image_frequency": 8,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 74,
+    "object": "microwave",
+    "image_frequency": 7,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 75,
+    "object": "toothbrush",
+    "image_frequency": 4,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 76,
+    "object": "broccoli",
+    "image_frequency": 3,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 77,
+    "object": "scissors",
+    "image_frequency": 3,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 78,
+    "object": "hair drier",
+    "image_frequency": 2,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "rank": 79,
+    "object": "toaster",
+    "image_frequency": 1,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 1,
+    "object": "person",
+    "image_frequency": 22755,
+    "hallucination_count": 42
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 2,
+    "object": "dining table",
+    "image_frequency": 6760,
+    "hallucination_count": 59
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 3,
+    "object": "car",
+    "image_frequency": 4790,
+    "hallucination_count": 9
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 4,
+    "object": "chair",
+    "image_frequency": 4789,
+    "hallucination_count": 19
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 5,
+    "object": "cup",
+    "image_frequency": 3166,
+    "hallucination_count": 15
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 6,
+    "object": "bottle",
+    "image_frequency": 2944,
+    "hallucination_count": 12
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 7,
+    "object": "bowl",
+    "image_frequency": 2892,
+    "hallucination_count": 40
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 8,
+    "object": "handbag",
+    "image_frequency": 2299,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 9,
+    "object": "truck",
+    "image_frequency": 2149,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 10,
+    "object": "bench",
+    "image_frequency": 2081,
+    "hallucination_count": 16
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 11,
+    "object": "sports ball",
+    "image_frequency": 2077,
+    "hallucination_count": 15
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 12,
+    "object": "book",
+    "image_frequency": 1871,
+    "hallucination_count": 5
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 13,
+    "object": "cell phone",
+    "image_frequency": 1861,
+    "hallucination_count": 11
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 14,
+    "object": "backpack",
+    "image_frequency": 1847,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 15,
+    "object": "clock",
+    "image_frequency": 1726,
+    "hallucination_count": 5
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 16,
+    "object": "tv",
+    "image_frequency": 1683,
+    "hallucination_count": 4
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 17,
+    "object": "laptop",
+    "image_frequency": 1664,
+    "hallucination_count": 5
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 18,
+    "object": "dog",
+    "image_frequency": 1635,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 19,
+    "object": "sink",
+    "image_frequency": 1634,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 20,
+    "object": "couch",
+    "image_frequency": 1553,
+    "hallucination_count": 7
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 21,
+    "object": "potted plant",
+    "image_frequency": 1550,
+    "hallucination_count": 3
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 22,
+    "object": "cat",
+    "image_frequency": 1539,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 23,
+    "object": "bed",
+    "image_frequency": 1526,
+    "hallucination_count": 18
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 24,
+    "object": "traffic light",
+    "image_frequency": 1499,
+    "hallucination_count": 11
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 25,
+    "object": "orange",
+    "image_frequency": 1493,
+    "hallucination_count": 57
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 26,
+    "object": "train",
+    "image_frequency": 1439,
+    "hallucination_count": 8
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 27,
+    "object": "knife",
+    "image_frequency": 1428,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 28,
+    "object": "umbrella",
+    "image_frequency": 1407,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 29,
+    "object": "bus",
+    "image_frequency": 1390,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 30,
+    "object": "bicycle",
+    "image_frequency": 1366,
+    "hallucination_count": 3
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 31,
+    "object": "tie",
+    "image_frequency": 1355,
+    "hallucination_count": 3
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 32,
+    "object": "surfboard",
+    "image_frequency": 1315,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 33,
+    "object": "bird",
+    "image_frequency": 1255,
+    "hallucination_count": 4
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 34,
+    "object": "motorcycle",
+    "image_frequency": 1248,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 35,
+    "object": "vase",
+    "image_frequency": 1228,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 36,
+    "object": "spoon",
+    "image_frequency": 1209,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 37,
+    "object": "toilet",
+    "image_frequency": 1203,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 38,
+    "object": "tennis racket",
+    "image_frequency": 1198,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 39,
+    "object": "fork",
+    "image_frequency": 1197,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 40,
+    "object": "skis",
+    "image_frequency": 1188,
+    "hallucination_count": 5
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 41,
+    "object": "boat",
+    "image_frequency": 1186,
+    "hallucination_count": 4
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 42,
+    "object": "pizza",
+    "image_frequency": 1170,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 43,
+    "object": "oven",
+    "image_frequency": 1150,
+    "hallucination_count": 9
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 44,
+    "object": "skateboard",
+    "image_frequency": 1127,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 45,
+    "object": "cake",
+    "image_frequency": 1080,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 46,
+    "object": "horse",
+    "image_frequency": 1079,
+    "hallucination_count": 3
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 47,
+    "object": "remote",
+    "image_frequency": 1070,
+    "hallucination_count": 5
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 48,
+    "object": "sandwich",
+    "image_frequency": 945,
+    "hallucination_count": 4
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 49,
+    "object": "suitcase",
+    "image_frequency": 934,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 50,
+    "object": "airplane",
+    "image_frequency": 928,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 51,
+    "object": "giraffe",
+    "image_frequency": 880,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 52,
+    "object": "wine glass",
+    "image_frequency": 873,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 53,
+    "object": "baseball glove",
+    "image_frequency": 845,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 54,
+    "object": "keyboard",
+    "image_frequency": 816,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 55,
+    "object": "refrigerator",
+    "image_frequency": 808,
+    "hallucination_count": 8
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 56,
+    "object": "baseball bat",
+    "image_frequency": 806,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 57,
+    "object": "frisbee",
+    "image_frequency": 772,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 58,
+    "object": "kite",
+    "image_frequency": 754,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 59,
+    "object": "cow",
+    "image_frequency": 746,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 60,
+    "object": "banana",
+    "image_frequency": 745,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 61,
+    "object": "elephant",
+    "image_frequency": 739,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 62,
+    "object": "teddy bear",
+    "image_frequency": 734,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 63,
+    "object": "zebra",
+    "image_frequency": 720,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 64,
+    "object": "mouse",
+    "image_frequency": 710,
+    "hallucination_count": 3
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 65,
+    "object": "bear",
+    "image_frequency": 701,
+    "hallucination_count": 3
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 66,
+    "object": "broccoli",
+    "image_frequency": 680,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 67,
+    "object": "stop sign",
+    "image_frequency": 623,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 68,
+    "object": "carrot",
+    "image_frequency": 598,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 69,
+    "object": "fire hydrant",
+    "image_frequency": 598,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 70,
+    "object": "apple",
+    "image_frequency": 581,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 71,
+    "object": "donut",
+    "image_frequency": 569,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 72,
+    "object": "snowboard",
+    "image_frequency": 559,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 73,
+    "object": "sheep",
+    "image_frequency": 533,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 74,
+    "object": "microwave",
+    "image_frequency": 528,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 75,
+    "object": "hot dog",
+    "image_frequency": 473,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 76,
+    "object": "toothbrush",
+    "image_frequency": 345,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 77,
+    "object": "scissors",
+    "image_frequency": 303,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 78,
+    "object": "parking meter",
+    "image_frequency": 269,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 79,
+    "object": "toaster",
+    "image_frequency": 108,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "rank": 80,
+    "object": "hair drier",
+    "image_frequency": 70,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 1,
+    "object": "person",
+    "image_frequency": 2877,
+    "hallucination_count": 6
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 2,
+    "object": "chair",
+    "image_frequency": 2390,
+    "hallucination_count": 3
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 3,
+    "object": "cup",
+    "image_frequency": 2094,
+    "hallucination_count": 5
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 4,
+    "object": "bowl",
+    "image_frequency": 1595,
+    "hallucination_count": 14
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 5,
+    "object": "bottle",
+    "image_frequency": 1309,
+    "hallucination_count": 3
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 6,
+    "object": "laptop",
+    "image_frequency": 1132,
+    "hallucination_count": 3
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 7,
+    "object": "knife",
+    "image_frequency": 1031,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 8,
+    "object": "fork",
+    "image_frequency": 962,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 9,
+    "object": "book",
+    "image_frequency": 929,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 10,
+    "object": "tv",
+    "image_frequency": 892,
+    "hallucination_count": 3
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 11,
+    "object": "spoon",
+    "image_frequency": 822,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 12,
+    "object": "pizza",
+    "image_frequency": 761,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 13,
+    "object": "cake",
+    "image_frequency": 728,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 14,
+    "object": "vase",
+    "image_frequency": 655,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 15,
+    "object": "wine glass",
+    "image_frequency": 650,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 16,
+    "object": "cell phone",
+    "image_frequency": 643,
+    "hallucination_count": 3
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 17,
+    "object": "keyboard",
+    "image_frequency": 639,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 18,
+    "object": "sandwich",
+    "image_frequency": 617,
+    "hallucination_count": 4
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 19,
+    "object": "potted plant",
+    "image_frequency": 614,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 20,
+    "object": "mouse",
+    "image_frequency": 597,
+    "hallucination_count": 3
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 21,
+    "object": "couch",
+    "image_frequency": 546,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 22,
+    "object": "orange",
+    "image_frequency": 424,
+    "hallucination_count": 8
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 23,
+    "object": "broccoli",
+    "image_frequency": 367,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 24,
+    "object": "remote",
+    "image_frequency": 359,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 25,
+    "object": "carrot",
+    "image_frequency": 351,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 26,
+    "object": "handbag",
+    "image_frequency": 301,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 27,
+    "object": "cat",
+    "image_frequency": 282,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 28,
+    "object": "clock",
+    "image_frequency": 280,
+    "hallucination_count": 3
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 29,
+    "object": "oven",
+    "image_frequency": 279,
+    "hallucination_count": 4
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 30,
+    "object": "apple",
+    "image_frequency": 278,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 31,
+    "object": "banana",
+    "image_frequency": 278,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 32,
+    "object": "donut",
+    "image_frequency": 259,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 33,
+    "object": "bed",
+    "image_frequency": 253,
+    "hallucination_count": 4
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 34,
+    "object": "bench",
+    "image_frequency": 242,
+    "hallucination_count": 5
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 35,
+    "object": "refrigerator",
+    "image_frequency": 233,
+    "hallucination_count": 4
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 36,
+    "object": "hot dog",
+    "image_frequency": 232,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 37,
+    "object": "sink",
+    "image_frequency": 226,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 38,
+    "object": "tie",
+    "image_frequency": 219,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 39,
+    "object": "umbrella",
+    "image_frequency": 199,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 40,
+    "object": "car",
+    "image_frequency": 179,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 41,
+    "object": "backpack",
+    "image_frequency": 168,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 42,
+    "object": "microwave",
+    "image_frequency": 164,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 43,
+    "object": "scissors",
+    "image_frequency": 151,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 44,
+    "object": "dog",
+    "image_frequency": 147,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 45,
+    "object": "teddy bear",
+    "image_frequency": 130,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 46,
+    "object": "suitcase",
+    "image_frequency": 94,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 47,
+    "object": "bird",
+    "image_frequency": 91,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 48,
+    "object": "bicycle",
+    "image_frequency": 83,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 49,
+    "object": "bear",
+    "image_frequency": 79,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 50,
+    "object": "truck",
+    "image_frequency": 66,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 51,
+    "object": "sports ball",
+    "image_frequency": 50,
+    "hallucination_count": 3
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 52,
+    "object": "boat",
+    "image_frequency": 41,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 53,
+    "object": "motorcycle",
+    "image_frequency": 34,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 54,
+    "object": "toaster",
+    "image_frequency": 30,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 55,
+    "object": "horse",
+    "image_frequency": 28,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 56,
+    "object": "toilet",
+    "image_frequency": 23,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 57,
+    "object": "train",
+    "image_frequency": 21,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 58,
+    "object": "frisbee",
+    "image_frequency": 19,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 59,
+    "object": "toothbrush",
+    "image_frequency": 19,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 60,
+    "object": "traffic light",
+    "image_frequency": 19,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 61,
+    "object": "skateboard",
+    "image_frequency": 18,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 62,
+    "object": "airplane",
+    "image_frequency": 16,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 63,
+    "object": "bus",
+    "image_frequency": 11,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 64,
+    "object": "sheep",
+    "image_frequency": 11,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 65,
+    "object": "surfboard",
+    "image_frequency": 11,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 66,
+    "object": "cow",
+    "image_frequency": 10,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 67,
+    "object": "elephant",
+    "image_frequency": 8,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 68,
+    "object": "fire hydrant",
+    "image_frequency": 8,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 69,
+    "object": "tennis racket",
+    "image_frequency": 7,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 70,
+    "object": "hair drier",
+    "image_frequency": 6,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 71,
+    "object": "parking meter",
+    "image_frequency": 6,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 72,
+    "object": "kite",
+    "image_frequency": 5,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 73,
+    "object": "baseball bat",
+    "image_frequency": 4,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 74,
+    "object": "skis",
+    "image_frequency": 4,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 75,
+    "object": "zebra",
+    "image_frequency": 4,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 76,
+    "object": "giraffe",
+    "image_frequency": 3,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 77,
+    "object": "snowboard",
+    "image_frequency": 2,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "rank": 78,
+    "object": "stop sign",
+    "image_frequency": 2,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 1,
+    "object": "person",
+    "image_frequency": 3001,
+    "hallucination_count": 4
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 2,
+    "object": "dining table",
+    "image_frequency": 2390,
+    "hallucination_count": 14
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 3,
+    "object": "cup",
+    "image_frequency": 981,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 4,
+    "object": "couch",
+    "image_frequency": 819,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 5,
+    "object": "bottle",
+    "image_frequency": 809,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 6,
+    "object": "book",
+    "image_frequency": 742,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 7,
+    "object": "tv",
+    "image_frequency": 720,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 8,
+    "object": "bowl",
+    "image_frequency": 627,
+    "hallucination_count": 5
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 9,
+    "object": "laptop",
+    "image_frequency": 619,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 10,
+    "object": "potted plant",
+    "image_frequency": 613,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 11,
+    "object": "vase",
+    "image_frequency": 452,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 12,
+    "object": "knife",
+    "image_frequency": 383,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 13,
+    "object": "sports ball",
+    "image_frequency": 375,
+    "hallucination_count": 4
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 14,
+    "object": "remote",
+    "image_frequency": 374,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 15,
+    "object": "cell phone",
+    "image_frequency": 372,
+    "hallucination_count": 5
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 16,
+    "object": "wine glass",
+    "image_frequency": 341,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 17,
+    "object": "bed",
+    "image_frequency": 340,
+    "hallucination_count": 3
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 18,
+    "object": "handbag",
+    "image_frequency": 334,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 19,
+    "object": "umbrella",
+    "image_frequency": 328,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 20,
+    "object": "bench",
+    "image_frequency": 319,
+    "hallucination_count": 5
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 21,
+    "object": "fork",
+    "image_frequency": 315,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 22,
+    "object": "spoon",
+    "image_frequency": 312,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 23,
+    "object": "car",
+    "image_frequency": 294,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 24,
+    "object": "cat",
+    "image_frequency": 287,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 25,
+    "object": "clock",
+    "image_frequency": 272,
+    "hallucination_count": 3
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 26,
+    "object": "tennis racket",
+    "image_frequency": 271,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 27,
+    "object": "keyboard",
+    "image_frequency": 270,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 28,
+    "object": "mouse",
+    "image_frequency": 267,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 29,
+    "object": "backpack",
+    "image_frequency": 259,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 30,
+    "object": "refrigerator",
+    "image_frequency": 250,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 31,
+    "object": "dog",
+    "image_frequency": 248,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 32,
+    "object": "cake",
+    "image_frequency": 245,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 33,
+    "object": "tie",
+    "image_frequency": 245,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 34,
+    "object": "pizza",
+    "image_frequency": 238,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 35,
+    "object": "sink",
+    "image_frequency": 232,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 36,
+    "object": "oven",
+    "image_frequency": 231,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 37,
+    "object": "orange",
+    "image_frequency": 169,
+    "hallucination_count": 13
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 38,
+    "object": "microwave",
+    "image_frequency": 151,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 39,
+    "object": "sandwich",
+    "image_frequency": 150,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 40,
+    "object": "teddy bear",
+    "image_frequency": 143,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 41,
+    "object": "suitcase",
+    "image_frequency": 137,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 42,
+    "object": "bicycle",
+    "image_frequency": 135,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 43,
+    "object": "baseball bat",
+    "image_frequency": 119,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 44,
+    "object": "baseball glove",
+    "image_frequency": 115,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 45,
+    "object": "truck",
+    "image_frequency": 103,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 46,
+    "object": "apple",
+    "image_frequency": 93,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 47,
+    "object": "motorcycle",
+    "image_frequency": 86,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 48,
+    "object": "donut",
+    "image_frequency": 80,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 49,
+    "object": "banana",
+    "image_frequency": 79,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 50,
+    "object": "hot dog",
+    "image_frequency": 75,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 51,
+    "object": "bear",
+    "image_frequency": 74,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 52,
+    "object": "boat",
+    "image_frequency": 72,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 53,
+    "object": "bird",
+    "image_frequency": 71,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 54,
+    "object": "train",
+    "image_frequency": 64,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 55,
+    "object": "carrot",
+    "image_frequency": 54,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 56,
+    "object": "scissors",
+    "image_frequency": 50,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 57,
+    "object": "toilet",
+    "image_frequency": 49,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 58,
+    "object": "frisbee",
+    "image_frequency": 46,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 59,
+    "object": "broccoli",
+    "image_frequency": 42,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 60,
+    "object": "horse",
+    "image_frequency": 42,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 61,
+    "object": "bus",
+    "image_frequency": 39,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 62,
+    "object": "airplane",
+    "image_frequency": 36,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 63,
+    "object": "surfboard",
+    "image_frequency": 34,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 64,
+    "object": "elephant",
+    "image_frequency": 33,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 65,
+    "object": "traffic light",
+    "image_frequency": 30,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 66,
+    "object": "kite",
+    "image_frequency": 29,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 67,
+    "object": "toaster",
+    "image_frequency": 29,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 68,
+    "object": "skateboard",
+    "image_frequency": 28,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 69,
+    "object": "skis",
+    "image_frequency": 25,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 70,
+    "object": "toothbrush",
+    "image_frequency": 25,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 71,
+    "object": "fire hydrant",
+    "image_frequency": 15,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 72,
+    "object": "stop sign",
+    "image_frequency": 13,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 73,
+    "object": "cow",
+    "image_frequency": 12,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 74,
+    "object": "snowboard",
+    "image_frequency": 12,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 75,
+    "object": "sheep",
+    "image_frequency": 11,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 76,
+    "object": "hair drier",
+    "image_frequency": 6,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 77,
+    "object": "parking meter",
+    "image_frequency": 6,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 78,
+    "object": "giraffe",
+    "image_frequency": 4,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "rank": 79,
+    "object": "zebra",
+    "image_frequency": 3,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 1,
+    "object": "person",
+    "image_frequency": 3241,
+    "hallucination_count": 6
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 2,
+    "object": "truck",
+    "image_frequency": 1408,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 3,
+    "object": "traffic light",
+    "image_frequency": 931,
+    "hallucination_count": 4
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 4,
+    "object": "bus",
+    "image_frequency": 789,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 5,
+    "object": "motorcycle",
+    "image_frequency": 516,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 6,
+    "object": "bicycle",
+    "image_frequency": 504,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 7,
+    "object": "handbag",
+    "image_frequency": 500,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 8,
+    "object": "train",
+    "image_frequency": 468,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 9,
+    "object": "backpack",
+    "image_frequency": 367,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 10,
+    "object": "bench",
+    "image_frequency": 327,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 11,
+    "object": "chair",
+    "image_frequency": 294,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 12,
+    "object": "stop sign",
+    "image_frequency": 278,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 13,
+    "object": "fire hydrant",
+    "image_frequency": 273,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 14,
+    "object": "umbrella",
+    "image_frequency": 255,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 15,
+    "object": "skateboard",
+    "image_frequency": 219,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 16,
+    "object": "dog",
+    "image_frequency": 214,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 17,
+    "object": "clock",
+    "image_frequency": 212,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 18,
+    "object": "cell phone",
+    "image_frequency": 199,
+    "hallucination_count": 2
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 19,
+    "object": "dining table",
+    "image_frequency": 179,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 20,
+    "object": "parking meter",
+    "image_frequency": 177,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 21,
+    "object": "orange",
+    "image_frequency": 161,
+    "hallucination_count": 9
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 22,
+    "object": "potted plant",
+    "image_frequency": 153,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 23,
+    "object": "horse",
+    "image_frequency": 150,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 24,
+    "object": "suitcase",
+    "image_frequency": 126,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 25,
+    "object": "boat",
+    "image_frequency": 118,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 26,
+    "object": "sports ball",
+    "image_frequency": 115,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 27,
+    "object": "airplane",
+    "image_frequency": 112,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 28,
+    "object": "bottle",
+    "image_frequency": 106,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 29,
+    "object": "tie",
+    "image_frequency": 104,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 30,
+    "object": "kite",
+    "image_frequency": 93,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 31,
+    "object": "cat",
+    "image_frequency": 91,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 32,
+    "object": "frisbee",
+    "image_frequency": 89,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 33,
+    "object": "cup",
+    "image_frequency": 79,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 34,
+    "object": "bird",
+    "image_frequency": 73,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 35,
+    "object": "cow",
+    "image_frequency": 66,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 36,
+    "object": "surfboard",
+    "image_frequency": 55,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 37,
+    "object": "baseball bat",
+    "image_frequency": 53,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 38,
+    "object": "bed",
+    "image_frequency": 53,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 39,
+    "object": "bowl",
+    "image_frequency": 47,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 40,
+    "object": "baseball glove",
+    "image_frequency": 45,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 41,
+    "object": "sheep",
+    "image_frequency": 43,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 42,
+    "object": "tv",
+    "image_frequency": 40,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 43,
+    "object": "book",
+    "image_frequency": 39,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 44,
+    "object": "elephant",
+    "image_frequency": 39,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 45,
+    "object": "laptop",
+    "image_frequency": 35,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 46,
+    "object": "skis",
+    "image_frequency": 34,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 47,
+    "object": "pizza",
+    "image_frequency": 33,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 48,
+    "object": "teddy bear",
+    "image_frequency": 32,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 49,
+    "object": "donut",
+    "image_frequency": 29,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 50,
+    "object": "cake",
+    "image_frequency": 28,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 51,
+    "object": "banana",
+    "image_frequency": 27,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 52,
+    "object": "couch",
+    "image_frequency": 27,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 53,
+    "object": "sandwich",
+    "image_frequency": 27,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 54,
+    "object": "hot dog",
+    "image_frequency": 26,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 55,
+    "object": "tennis racket",
+    "image_frequency": 26,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 56,
+    "object": "bear",
+    "image_frequency": 24,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 57,
+    "object": "giraffe",
+    "image_frequency": 24,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 58,
+    "object": "knife",
+    "image_frequency": 21,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 59,
+    "object": "zebra",
+    "image_frequency": 21,
+    "hallucination_count": 1
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 60,
+    "object": "vase",
+    "image_frequency": 20,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 61,
+    "object": "fork",
+    "image_frequency": 19,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 62,
+    "object": "apple",
+    "image_frequency": 18,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 63,
+    "object": "keyboard",
+    "image_frequency": 18,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 64,
+    "object": "spoon",
+    "image_frequency": 17,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 65,
+    "object": "oven",
+    "image_frequency": 16,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 66,
+    "object": "wine glass",
+    "image_frequency": 16,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 67,
+    "object": "mouse",
+    "image_frequency": 15,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 68,
+    "object": "snowboard",
+    "image_frequency": 15,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 69,
+    "object": "refrigerator",
+    "image_frequency": 13,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 70,
+    "object": "remote",
+    "image_frequency": 13,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 71,
+    "object": "carrot",
+    "image_frequency": 12,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 72,
+    "object": "toilet",
+    "image_frequency": 10,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 73,
+    "object": "sink",
+    "image_frequency": 8,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 74,
+    "object": "microwave",
+    "image_frequency": 7,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 75,
+    "object": "toothbrush",
+    "image_frequency": 4,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 76,
+    "object": "broccoli",
+    "image_frequency": 3,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 77,
+    "object": "scissors",
+    "image_frequency": 3,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 78,
+    "object": "hair drier",
+    "image_frequency": 2,
+    "hallucination_count": 0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "rank": 79,
+    "object": "toaster",
+    "image_frequency": 1,
+    "hallucination_count": 0
+  }
+]

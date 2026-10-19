@@ -1,0 +1,450 @@
+[
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "top_k": 10,
+    "hallucinated_instances": 104,
+    "cumulative_proportion": 0.25961538461538464
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "top_k": 20,
+    "hallucinated_instances": 104,
+    "cumulative_proportion": 0.46153846153846156
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "top_k": 30,
+    "hallucinated_instances": 104,
+    "cumulative_proportion": 0.7115384615384616
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "top_k": 40,
+    "hallucinated_instances": 104,
+    "cumulative_proportion": 0.8269230769230769
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "top_k": 50,
+    "hallucinated_instances": 104,
+    "cumulative_proportion": 0.875
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "top_k": 60,
+    "hallucinated_instances": 104,
+    "cumulative_proportion": 0.9230769230769231
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "top_k": 70,
+    "hallucinated_instances": 104,
+    "cumulative_proportion": 0.9807692307692307
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "",
+    "top_k": 80,
+    "hallucinated_instances": 104,
+    "cumulative_proportion": 1.0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "top_k": 10,
+    "hallucinated_instances": 17,
+    "cumulative_proportion": 0.23529411764705882
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "top_k": 20,
+    "hallucinated_instances": 17,
+    "cumulative_proportion": 0.5882352941176471
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "top_k": 30,
+    "hallucinated_instances": 17,
+    "cumulative_proportion": 0.7647058823529411
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "top_k": 40,
+    "hallucinated_instances": 17,
+    "cumulative_proportion": 0.8823529411764706
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "top_k": 50,
+    "hallucinated_instances": 17,
+    "cumulative_proportion": 0.8823529411764706
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "top_k": 60,
+    "hallucinated_instances": 17,
+    "cumulative_proportion": 1.0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "top_k": 70,
+    "hallucinated_instances": 17,
+    "cumulative_proportion": 1.0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "dining table",
+    "top_k": 80,
+    "hallucinated_instances": 17,
+    "cumulative_proportion": 1.0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "top_k": 10,
+    "hallucinated_instances": 19,
+    "cumulative_proportion": 0.3684210526315789
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "top_k": 20,
+    "hallucinated_instances": 19,
+    "cumulative_proportion": 0.6842105263157895
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "top_k": 30,
+    "hallucinated_instances": 19,
+    "cumulative_proportion": 0.6842105263157895
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "top_k": 40,
+    "hallucinated_instances": 19,
+    "cumulative_proportion": 0.8947368421052632
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "top_k": 50,
+    "hallucinated_instances": 19,
+    "cumulative_proportion": 0.9473684210526315
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "top_k": 60,
+    "hallucinated_instances": 19,
+    "cumulative_proportion": 0.9473684210526315
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "top_k": 70,
+    "hallucinated_instances": 19,
+    "cumulative_proportion": 1.0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "chair",
+    "top_k": 80,
+    "hallucinated_instances": 19,
+    "cumulative_proportion": 1.0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "top_k": 10,
+    "hallucinated_instances": 6,
+    "cumulative_proportion": 0.3333333333333333
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "top_k": 20,
+    "hallucinated_instances": 6,
+    "cumulative_proportion": 0.5
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "top_k": 30,
+    "hallucinated_instances": 6,
+    "cumulative_proportion": 0.6666666666666666
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "top_k": 40,
+    "hallucinated_instances": 6,
+    "cumulative_proportion": 0.6666666666666666
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "top_k": 50,
+    "hallucinated_instances": 6,
+    "cumulative_proportion": 0.8333333333333334
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "top_k": 60,
+    "hallucinated_instances": 6,
+    "cumulative_proportion": 0.8333333333333334
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "top_k": 70,
+    "hallucinated_instances": 6,
+    "cumulative_proportion": 1.0
+  },
+  {
+    "prompt_id": "I1",
+    "anchor": "car",
+    "top_k": 80,
+    "hallucinated_instances": 6,
+    "cumulative_proportion": 1.0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "top_k": 10,
+    "hallucinated_instances": 455,
+    "cumulative_proportion": 0.4703296703296703
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "top_k": 20,
+    "hallucinated_instances": 455,
+    "cumulative_proportion": 0.5934065934065934
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "top_k": 30,
+    "hallucinated_instances": 455,
+    "cumulative_proportion": 0.8241758241758241
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "top_k": 40,
+    "hallucinated_instances": 455,
+    "cumulative_proportion": 0.865934065934066
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "top_k": 50,
+    "hallucinated_instances": 455,
+    "cumulative_proportion": 0.9318681318681319
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "top_k": 60,
+    "hallucinated_instances": 455,
+    "cumulative_proportion": 0.9582417582417583
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "top_k": 70,
+    "hallucinated_instances": 455,
+    "cumulative_proportion": 0.9868131868131869
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "",
+    "top_k": 80,
+    "hallucinated_instances": 455,
+    "cumulative_proportion": 1.0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "top_k": 10,
+    "hallucinated_instances": 100,
+    "cumulative_proportion": 0.41
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "top_k": 20,
+    "hallucinated_instances": 100,
+    "cumulative_proportion": 0.56
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "top_k": 30,
+    "hallucinated_instances": 100,
+    "cumulative_proportion": 0.77
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "top_k": 40,
+    "hallucinated_instances": 100,
+    "cumulative_proportion": 0.92
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "top_k": 50,
+    "hallucinated_instances": 100,
+    "cumulative_proportion": 0.93
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "top_k": 60,
+    "hallucinated_instances": 100,
+    "cumulative_proportion": 0.99
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "top_k": 70,
+    "hallucinated_instances": 100,
+    "cumulative_proportion": 1.0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "dining table",
+    "top_k": 80,
+    "hallucinated_instances": 100,
+    "cumulative_proportion": 1.0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "top_k": 10,
+    "hallucinated_instances": 84,
+    "cumulative_proportion": 0.40476190476190477
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "top_k": 20,
+    "hallucinated_instances": 84,
+    "cumulative_proportion": 0.6309523809523809
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "top_k": 30,
+    "hallucinated_instances": 84,
+    "cumulative_proportion": 0.7142857142857143
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "top_k": 40,
+    "hallucinated_instances": 84,
+    "cumulative_proportion": 0.9047619047619048
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "top_k": 50,
+    "hallucinated_instances": 84,
+    "cumulative_proportion": 0.9404761904761905
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "top_k": 60,
+    "hallucinated_instances": 84,
+    "cumulative_proportion": 0.9642857142857143
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "top_k": 70,
+    "hallucinated_instances": 84,
+    "cumulative_proportion": 0.9761904761904762
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "chair",
+    "top_k": 80,
+    "hallucinated_instances": 84,
+    "cumulative_proportion": 1.0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "top_k": 10,
+    "hallucinated_instances": 35,
+    "cumulative_proportion": 0.45714285714285713
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "top_k": 20,
+    "hallucinated_instances": 35,
+    "cumulative_proportion": 0.5714285714285714
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "top_k": 30,
+    "hallucinated_instances": 35,
+    "cumulative_proportion": 0.8571428571428571
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "top_k": 40,
+    "hallucinated_instances": 35,
+    "cumulative_proportion": 0.9142857142857143
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "top_k": 50,
+    "hallucinated_instances": 35,
+    "cumulative_proportion": 0.9714285714285714
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "top_k": 60,
+    "hallucinated_instances": 35,
+    "cumulative_proportion": 1.0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "top_k": 70,
+    "hallucinated_instances": 35,
+    "cumulative_proportion": 1.0
+  },
+  {
+    "prompt_id": "I2",
+    "anchor": "car",
+    "top_k": 80,
+    "hallucinated_instances": 35,
+    "cumulative_proportion": 1.0
+  }
+]

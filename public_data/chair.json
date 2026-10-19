@@ -1,0 +1,32 @@
+[
+  {
+    "prompt_id": "I1",
+    "n": 2000,
+    "CHAIRi": 0.028634361233480177,
+    "CHAIRs": 0.0495,
+    "mentioned_instances": 3632,
+    "hallucinated_instances": 104,
+    "average_length_whitespace": 16.289,
+    "average_length_nltk": 18.2245,
+    "length_limit_count": 1,
+    "repetition_flagged_count": 2,
+    "sensitivity_eos_only_n": 1999,
+    "sensitivity_eos_only_CHAIRi": 0.02865013774104683,
+    "sensitivity_eos_only_CHAIRs": 0.04952476238119059
+  },
+  {
+    "prompt_id": "I2",
+    "n": 2000,
+    "CHAIRi": 0.04781420765027322,
+    "CHAIRs": 0.18,
+    "mentioned_instances": 9516,
+    "hallucinated_instances": 455,
+    "average_length_whitespace": 83.6005,
+    "average_length_nltk": 94.602,
+    "length_limit_count": 3,
+    "repetition_flagged_count": 4,
+    "sensitivity_eos_only_n": 1997,
+    "sensitivity_eos_only_CHAIRi": 0.048108509060082655,
+    "sensitivity_eos_only_CHAIRs": 0.17976965448172258
+  }
+]

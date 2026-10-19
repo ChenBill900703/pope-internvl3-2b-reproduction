@@ -1,0 +1,94 @@
+[
+  {
+    "dataset": "aokvqa",
+    "C_parser_status": "ambiguous",
+    "sample_n": 31,
+    "D_verdict_counts": {
+      "unassessable": 18,
+      "equivalent": 7,
+      "ambiguous": 6
+    },
+    "differences": {
+      "both_zero_unresolved": 21,
+      "D_supports_C_zero__potential_C_false_negative": 6,
+      "excluded_both": 4
+    }
+  },
+  {
+    "dataset": "aokvqa",
+    "C_parser_status": "parsed",
+    "sample_n": 56,
+    "D_verdict_counts": {
+      "equivalent": 15,
+      "unassessable": 40,
+      "ambiguous": 1
+    },
+    "differences": {
+      "both_positive_credit": 13,
+      "D_abstains_C_positive__unresolved": 3,
+      "excluded_both": 1,
+      "D_supports_C_zero__potential_C_false_negative": 2,
+      "both_zero_unresolved": 37
+    }
+  },
+  {
+    "dataset": "aokvqa",
+    "C_parser_status": "unparseable",
+    "sample_n": 33,
+    "D_verdict_counts": {
+      "unassessable": 29,
+      "equivalent": 3,
+      "ambiguous": 1
+    },
+    "differences": {
+      "excluded_both": 2,
+      "both_zero_unresolved": 28,
+      "D_supports_C_zero__potential_C_false_negative": 3
+    }
+  },
+  {
+    "dataset": "gqa",
+    "C_parser_status": "ambiguous",
+    "sample_n": 13,
+    "D_verdict_counts": {
+      "ambiguous": 4,
+      "unassessable": 5,
+      "equivalent": 2,
+      "not_equivalent": 2
+    },
+    "differences": {
+      "both_zero_unresolved": 9,
+      "D_supports_C_zero__potential_C_false_negative": 2,
+      "both_zero_D_explicit_mismatch": 2
+    }
+  },
+  {
+    "dataset": "gqa",
+    "C_parser_status": "parsed",
+    "sample_n": 88,
+    "D_verdict_counts": {
+      "equivalent": 50,
+      "unassessable": 31,
+      "not_equivalent": 7
+    },
+    "differences": {
+      "both_positive_credit": 43,
+      "both_zero_unresolved": 31,
+      "both_zero_D_explicit_mismatch": 7,
+      "D_supports_C_zero__potential_C_false_negative": 7
+    }
+  },
+  {
+    "dataset": "gqa",
+    "C_parser_status": "unparseable",
+    "sample_n": 19,
+    "D_verdict_counts": {
+      "unassessable": 15,
+      "equivalent": 4
+    },
+    "differences": {
+      "both_zero_unresolved": 15,
+      "D_supports_C_zero__potential_C_false_negative": 4
+    }
+  }
+]
