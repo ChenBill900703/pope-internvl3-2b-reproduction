@@ -1,0 +1,12 @@
+{
+  "at": "2026-10-15T18:31:42.698373+00:00",
+  "repository": "https://github.com/allenai/aokvqa",
+  "commit": "83786de0b24c4fef0bfe39420684f6f73d9f3581",
+  "source_url": "https://raw.githubusercontent.com/allenai/aokvqa/83786de0b24c4fef0bfe39420684f6f73d9f3581/evaluation/eval_predictions.py",
+  "source_sha256": "7234655c05764a554c9c5a592cfa069e4469d1a0db5d0b2361b5d4f1eb372b76",
+  "license_files": [
+    "LICENSE"
+  ],
+  "used_function": "eval_aokvqa, extracted from original AST without changing its function body",
+  "score_policy": "Original exact-string direct-answer matching; original difficult_direct_answer exclusion; no ChatGPT"
+}
