@@ -1,0 +1,26 @@
+{
+  "version": "2.0",
+  "frozen_at_before_final_scoring": "2026-10-19T03:40:28.258513+00:00",
+  "code_sha256": {
+    "local_rules.py": "cbdee6dfe221bd65e283f62db770defc676bb2ddb6d9b59285b2beb404cef80b",
+    "run_analysis.py": "ba79e5d1f2ba5665c597e48a66fae7ecf7e395edc11af4c6308bfa37139e6b25",
+    "sources/aokvqa_eval_predictions.py": "7234655c05764a554c9c5a592cfa069e4469d1a0db5d0b2361b5d4f1eb372b76"
+  },
+  "sample_seed": 20261019,
+  "sample_target_per_dataset": 120,
+  "synthetic_tests_passed": 20,
+  "extraction_inputs": [
+    "question",
+    "raw_prediction"
+  ],
+  "reference_answers_accessible_to_extractor": false,
+  "A": "Unmodified raw strings; AOK consensus min(1,n_exact/3), difficult=True excluded; GQA exact match.",
+  "B": "NFKC, lowercase, whitespace, VQA-inspired punctuation/articles/zero-ten digit mapping and six contraction spellings. Entire prediction AND each reference independently normalized; no extraction, synonyms, singularization, fuzzy or substring matching.",
+  "C": "Same normalization; deterministic anchored first-sentence syntax/explicit yes-no/number rules; explicit uncertainty, alternatives and recognized contradictions abstain; candidates above 8 words abstain; all eligible records remain denominator. No reference lookup.",
+  "official_vs_supplementary": "A uses exact original scoring. B/C preserve dataset score aggregation but transform answers and references; these are supplementary local diagnostics, not official leaderboard scores or ChatGPT-assisted grading.",
+  "format_categories": "Overlapping A-I operational text flags, not manual semantic labels. F is an object/person phrase proxy, not proof of object identification.",
+  "format_error_definition": "Eligible A=0 and C>0 (rule-recoverable mismatch proxy); not all verbosity and not independently validated semantic accuracy.",
+  "uncertainty": "Parsed is a syntax outcome, not proof of correctness. Unrecognized semantic contradictions and wrong target extraction can remain. Manual review required before semantic accuracy claims.",
+  "no_paid_api": true,
+  "no_gpu_inference": true
+}
