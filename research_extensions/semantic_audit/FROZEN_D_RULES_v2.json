@@ -1,0 +1,182 @@
+{
+  "frozen_before_240_judgments_at": "2026-10-19T04:14:29.810400+00:00",
+  "configuration": {
+    "version": "D-symbolic-2.0",
+    "source_sample_sha256": "b872bbd851e539f3866c1a4602cc9382e393814b74f03ccc312ce9b8e541b162",
+    "code_sha256": {
+      "semantic_rules_d.py": "acd1497b50e29bfe2763afe124cf511f6f29c927696347b626b99a08e82ed608",
+      "run_semantic_audit.py": "a49990ddefc7011d434737ea50fb49a154b0285a5d3adf08f509901527751eed",
+      "controls.py": "e0e64addb8bb1a137b9d90ccc4f58f4499a18c3634d0319c931d18145c41918b"
+    },
+    "synonym_groups": [
+      [
+        "sofa",
+        "couch"
+      ],
+      [
+        "donut",
+        "doughnut"
+      ],
+      [
+        "bicycle",
+        "bike"
+      ],
+      [
+        "motorcycle",
+        "motorbike"
+      ],
+      [
+        "television",
+        "tv"
+      ],
+      [
+        "airplane",
+        "aeroplane",
+        "plane"
+      ],
+      [
+        "cell phone",
+        "cellphone",
+        "mobile phone"
+      ],
+      [
+        "gray",
+        "grey"
+      ],
+      [
+        "refrigerator",
+        "fridge"
+      ],
+      [
+        "trash can",
+        "garbage can",
+        "rubbish bin",
+        "trash bin"
+      ],
+      [
+        "cabinet",
+        "cupboard"
+      ],
+      [
+        "jacket",
+        "coat"
+      ],
+      [
+        "sneakers",
+        "trainers"
+      ],
+      [
+        "child",
+        "kid"
+      ],
+      [
+        "children",
+        "kids"
+      ],
+      [
+        "photograph",
+        "photo",
+        "picture"
+      ]
+    ],
+    "ordinal_map": {
+      "first": "one",
+      "second": "two",
+      "third": "three",
+      "fourth": "four",
+      "fifth": "five",
+      "sixth": "six",
+      "seventh": "seven",
+      "eighth": "eight",
+      "ninth": "nine",
+      "tenth": "ten",
+      "eleventh": "eleven",
+      "twelfth": "twelve",
+      "thirteenth": "thirteen",
+      "fourteenth": "fourteen",
+      "fifteenth": "fifteen",
+      "sixteenth": "sixteen",
+      "seventeenth": "seventeen",
+      "eighteenth": "eighteen",
+      "nineteenth": "nineteen",
+      "twentieth": "twenty",
+      "thirtieth": "thirty",
+      "fortieth": "forty",
+      "fiftieth": "fifty",
+      "sixtieth": "sixty",
+      "seventieth": "seventy",
+      "eightieth": "eighty",
+      "ninetieth": "ninety"
+    },
+    "number_small": [
+      "zero",
+      "one",
+      "two",
+      "three",
+      "four",
+      "five",
+      "six",
+      "seven",
+      "eight",
+      "nine",
+      "ten",
+      "eleven",
+      "twelve",
+      "thirteen",
+      "fourteen",
+      "fifteen",
+      "sixteen",
+      "seventeen",
+      "eighteen",
+      "nineteen"
+    ],
+    "number_tens": {
+      "twenty": 20,
+      "thirty": 30,
+      "forty": 40,
+      "fifty": 50,
+      "sixty": 60,
+      "seventy": 70,
+      "eighty": 80,
+      "ninety": 90
+    },
+    "opposite_relations": {
+      "left": "right",
+      "right": "left",
+      "above": "below",
+      "below": "above",
+      "behind": "in front of",
+      "in front of": "behind",
+      "on": "under",
+      "under": "on",
+      "inside": "outside",
+      "outside": "inside"
+    },
+    "model_executed": false,
+    "paid_api_called": false,
+    "hardware": "CPU only",
+    "input_fields": [
+      "question",
+      "prediction",
+      "references"
+    ],
+    "hidden_from_judge": [
+      "A/B/C",
+      "C extraction/status",
+      "stratum",
+      "prior AI comments",
+      "image"
+    ],
+    "scope": "Exactly the pre-existing 240 sample IDs; no resampling, no expansion to 11216.",
+    "confidence": "Engineering rubric high/medium/low; not calibrated probability or human agreement.",
+    "verdicts": [
+      "equivalent",
+      "not_equivalent",
+      "ambiguous",
+      "unassessable"
+    ],
+    "scores": "Sample only. AOK compatible reference count/3 capped at1, GQA 0/1. Official-difficult excluded from denominators. Ambiguous/unassessable 0 for descriptive credit but not proven incorrect.",
+    "independence_limits": "Different standalone implementation, reference-aware and blind to C inputs. Authored by same AI assistant; no statistical independence, model judge or independent human validation claimed.",
+    "adopt_for_full_dataset": false
+  }
+}
