@@ -63,7 +63,7 @@
   "public_data/vqa_supplementary.json": "0690ad56e3d06c9f7c7cf51df67703f6e9a7c4d8a6ec16a8efe91fb1fc2e2c5f",
   "release_tools/README.md": "5152c2a159c863dfb743d96e4ee7e34560454f809a1a94cc979cced557773056",
   "release_tools/build_release.py": "f90f4af6bf34a4e7f5b2588b560e608d81c971b9a2b56a31f3d2585d2aca9d7d",
-  "release_tools/check_public.py": "04c63af80c8b9d105cd39549eaef7f83886088b9984e336aed426291447aa25e",
+  "release_tools/check_public.py": "9343308da4083fe2549ecd1f526b4df7f705f194f5f6831455d2bddb7beedd2d",
   "release_tools/package_public.py": "7301b6e54f56fdd3bc0ccff3675b8703a8fbd59ed05970e5f834461734f7f7d2",
   "release_tools/plot_public.py": "faea6ab7ede3214d4959b69fc9f0f764ccc13073143b6afefa16a27e303d5c89",
   "release_tools/verify_local.py": "55b374ec1a78ea8cc163503e925f5c49a2991eb73dd53e0bb78a851f8d49d5d2",
